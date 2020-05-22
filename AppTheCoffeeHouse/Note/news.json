@@ -1,0 +1,308 @@
+[
+  {
+    "id": "5b29c5974fd1cd0001158fdd",
+    "name": "What's News",
+    "posts": [
+      {
+        "id": "5e966d334e13a80001af6389",
+        "title": "Ở nhà đổi vị, cùng Trà Sữa Mắc Ca Trân Châu Trắng",
+        "url": "https://feed.thecoffeehouse.com/o-nha-doi-vi-cung-tra-sua-mac-ca-tran-chau-trang/?mobile=1",
+        "image": "https://feed.thecoffeehouse.com/content/images/2020/04/KV-2_800x450.jpg",
+        "content": "Có ai thương bạn như Nhà, vừa ra món mới lại vừa Freeship nha. Biết bạn ghiền trà sữa đã lâu, vì dù nắng hay mưa, buổi trưa hay chiều tối, ",
+        "date": "2020-04-15T02:19:34.000Z",
+        "button": "Order ngay",
+        "deeplink": "https://www.thecoffeehouse.com/?screen=Order",
+        "effects": "",
+        "shareUrl": "https://feed.thecoffeehouse.com/o-nha-doi-vi-cung-tra-sua-mac-ca-tran-chau-trang"
+      },
+      {
+        "id": "5e9152734e13a80001af6384",
+        "title": "Cứ \"ở nhà\", là Nhà giảm 25%",
+        "url": "https://feed.thecoffeehouse.com/cu-o-nha-la-nha-giam-25/?mobile=1",
+        "image": "https://feed.thecoffeehouse.com/content/images/2020/04/--nh--noti-800x450.jpg",
+        "content": "Cùng làm “yến tiệc” tại gia sương sương với ưu đãi GIẢM 25% - khi gọi 4 món yêu thích bất kỳ, mở app nhập mã ONHA liền, để gia đình mình thêm gần ",
+        "date": "2020-04-11T05:19:47.000Z",
+        "button": "Order ngay",
+        "deeplink": "https://www.thecoffeehouse.com/?screen=Order",
+        "effects": "",
+        "shareUrl": "https://feed.thecoffeehouse.com/cu-o-nha-la-nha-giam-25"
+      },
+      {
+        "id": "5e75a1a24e13a80001af6349",
+        "title": "\"Lối nhỏ\" Nhà giao, bao xa cũng tới",
+        "url": "https://feed.thecoffeehouse.com/untitled-41/?mobile=1",
+        "image": "https://feed.thecoffeehouse.com/content/images/2020/03/viber_image_2020-03-21_12-07-46.jpg",
+        "content": "\"Work from home\" hay học online có thèm uống gì thì cứ gọi Nhà nha. Shipper Nhà sẽ mang món bạn yêu thích tới tận nơi:",
+        "date": "2020-03-21T05:11:08.000Z",
+        "button": null,
+        "deeplink": null,
+        "effects": null,
+        "shareUrl": "https://feed.thecoffeehouse.com/untitled-41"
+      },
+      {
+        "id": "5d81d04fa943700001323901",
+        "title": "Giao hàng tận nơi tiện lợi, bạn đã trải nghiệm chưa?",
+        "url": "https://feed.thecoffeehouse.com/giao-hang-tan-noi-tien-loi-ban-da-trai-nghiem-chua/?mobile=1",
+        "image": "https://feed.thecoffeehouse.com/content/images/2019/09/8-1.png",
+        "content": "Giờ đây chỉ với vài thao tác đơn giản là bạn có thể dễ dàng đặt món nước mình yêu thích. Đặt hàng trên App thật đơn giản vì: Nhà giao hàng trong 30 phút...",
+        "date": "2019-09-18T06:37:12.000Z",
+        "button": "Đặt hàng ngay",
+        "deeplink": "https://www.thecoffeehouse.com?screen=Order",
+        "effects": "",
+        "shareUrl": "https://feed.thecoffeehouse.com/giao-hang-tan-noi-tien-loi-ban-da-trai-nghiem-chua"
+      }
+    ]
+  },
+  {
+    "id": "5b29c6064fd1cd0001158fde",
+    "name": "Tin tức",
+    "posts": [
+      {
+        "id": "5e8abcd74e13a80001af637c",
+        "title": "Hướng dẫn sử dụng \"Gói Tiết Kiệm\" dành cho Người yêu cà phê",
+        "url": "https://feed.thecoffeehouse.com/huong-dan-su-dung-goi-tiet-kiem-danh-cho-nguoi-yeu-ca-phe/?mobile=1",
+        "image": "https://feed.thecoffeehouse.com/content/images/2020/04/Subscription-800x450.jpg",
+        "content": "Gói Cà phê tiết kiệm tại App The Coffee House là gói sản phẩm được mua trả trước, phục vụ cho nhu cầu thưởng thức Cà phê của bạn mỗi ngày thông qua ",
+        "date": "2020-04-06T05:27:46.000Z",
+        "button": null,
+        "deeplink": null,
+        "effects": null,
+        "shareUrl": "https://feed.thecoffeehouse.com/huong-dan-su-dung-goi-tiet-kiem-danh-cho-nguoi-yeu-ca-phe"
+      },
+      {
+        "id": "5e8a0f084e13a80001af6377",
+        "title": "Hướng dẫn bạn mới nhận ly cà phê sữa đá miễn phí",
+        "url": "https://feed.thecoffeehouse.com/tang/?mobile=1",
+        "image": "https://feed.thecoffeehouse.com/content/images/2020/04/deli-app800-x-450.jpg",
+        "content": "Ở nhà cả ngày vẫn vui!Nhà mời bạn mới 1 ly cà phê miễn phí khi tải app The Coffee House. Và rất nhiều nước ngon, bánh ngọt sẵn sàng giao tận tay ",
+        "date": "2020-04-05T17:13:23.000Z",
+        "button": null,
+        "deeplink": null,
+        "effects": null,
+        "shareUrl": "https://feed.thecoffeehouse.com/tang"
+      },
+      {
+        "id": "5e802e214e13a80001af6366",
+        "title": "Tất bật vì bạn - Là niềm hạnh phúc của shipper Nhà",
+        "url": "https://feed.thecoffeehouse.com/tat-bat-vi-ban-la-niem-hanh-phuc-cua-shipper-nha/?mobile=1",
+        "image": "https://feed.thecoffeehouse.com/content/images/2020/03/DELI800x450_2-copy.jpg",
+        "content": "Mỗi ngày shipper Nhà chọn 1 niềm vui, chạy tới chạy lui mang món nước yêu thích đến với mọi người. Và ngoài tiêu chí nhanh chóng,",
+        "date": "2020-03-29T05:50:04.000Z",
+        "button": null,
+        "deeplink": null,
+        "effects": null,
+        "shareUrl": "https://feed.thecoffeehouse.com/tat-bat-vi-ban-la-niem-hanh-phuc-cua-shipper-nha"
+      },
+      {
+        "id": "5e8025584e13a80001af6363",
+        "title": "Từ hành động nhỏ - Tiếp sức cho điều lớn lao",
+        "url": "https://feed.thecoffeehouse.com/untitled-44/?mobile=1",
+        "image": "https://feed.thecoffeehouse.com/content/images/2020/03/huy-lam.jpg",
+        "content": "Giữa thời điểm cả thế giới cùng nhau chống Covid - 19, tại Việt Nam những con người nhỏ bé nhưng với tinh thần và ý chí to lớn cũng đang làm được ",
+        "date": "2020-03-29T04:37:29.000Z",
+        "button": null,
+        "deeplink": null,
+        "effects": null,
+        "shareUrl": "https://feed.thecoffeehouse.com/untitled-44"
+      },
+      {
+        "id": "5e79fb564e13a80001af6351",
+        "title": "#Vietnamcolen",
+        "url": "https://feed.thecoffeehouse.com/untitled-42/?mobile=1",
+        "image": "https://feed.thecoffeehouse.com/content/images/2020/03/viber_image_2020-03-24_19-18-09.jpg",
+        "content": "Thông báo tạm ngưng phục vụ toàn bộ cửa hàng khu vực Thành Phố Hồ Chí Minh Theo chỉ thị của UBND Thành phố Hồ Chí Minh, và nhằm chung tay ",
+        "date": "2020-03-24T12:24:22.000Z",
+        "button": null,
+        "deeplink": null,
+        "effects": null,
+        "shareUrl": "https://feed.thecoffeehouse.com/untitled-42"
+      },
+      {
+        "id": "5e6e1a1b4e13a80001af633a",
+        "title": "Cập nhật thông tin tại cửa hàng The Coffee House Nguyễn Văn Linh",
+        "url": "https://feed.thecoffeehouse.com/cap-nhat-thong-tin-tai-cua-hang-the-coffee-house-nguyen-van-linh/?mobile=1",
+        "image": "https://feed.thecoffeehouse.com/content/images/2020/03/Corona_NVLupdate_app.jpg",
+        "content": "Gửi quý khách hàng của The Coffee House, Chúng tôi xin cập nhật những thông tin mới nhất liên quan đến việc 2 du khách người Anh được xác nhận dương tính",
+        "date": "2020-03-15T12:09:04.000Z",
+        "button": null,
+        "deeplink": null,
+        "effects": null,
+        "shareUrl": "https://feed.thecoffeehouse.com/cap-nhat-thong-tin-tai-cua-hang-the-coffee-house-nguyen-van-linh"
+      },
+      {
+        "id": "5e4125684e13a80001af62dc",
+        "title": "Nạp C Tăng Đề Kháng Cùng Nhà",
+        "url": "https://feed.thecoffeehouse.com/untitled-36/?mobile=1",
+        "image": "https://feed.thecoffeehouse.com/content/images/2020/02/nguqua-800x450_1580786604.jpg",
+        "content": "Bạn gì ơi, trong những ngày này dù bận rộn đến đâu thì hãy luôn chủ động bảo vệ sức khỏe của mình nhé! ",
+        "date": "2020-02-10T09:49:34.000Z",
+        "button": "Order ngay",
+        "deeplink": "https://www.thecoffeehouse.com/?screen=Order",
+        "effects": "",
+        "shareUrl": "https://feed.thecoffeehouse.com/untitled-36"
+      },
+      {
+        "id": "5e3102564e13a80001af62b9",
+        "title": "Chủ động phòng bệnh viêm phổi cấp do chủng virus Corona mới",
+        "url": "https://feed.thecoffeehouse.com/chu-dong-phong-benh/?mobile=1",
+        "image": "https://feed.thecoffeehouse.com/content/images/2020/01/tch_corona_Artboard-1-copy.jpg",
+        "content": "Hãy chủ động bảo vệ sức khoẻ theo thông tin khuyến cáo từ tổ chức Y Tế Thế Giới WHO... ",
+        "date": "2020-01-29T06:28:50.000Z",
+        "button": null,
+        "deeplink": null,
+        "effects": null,
+        "shareUrl": "https://feed.thecoffeehouse.com/chu-dong-phong-benh"
+      },
+      {
+        "id": "5e0088704e13a80001af625c",
+        "title": "The Coffee House Go Green - Chuỗi hoạt động vì môi trường bền vững",
+        "url": "https://feed.thecoffeehouse.com/the-coffee-house-go-green-chuoi-hoat-dong-vi-moi-truong-ben-vung/?mobile=1",
+        "image": "https://feed.thecoffeehouse.com/content/images/2019/12/800x450.jpg",
+        "content": "Quan tâm cộng đồng và có trách nhiệm làm cho môi trường sống được tốt đẹp, khỏe mạnh hơn là một trong những giá tr",
+        "date": "2019-12-23T09:36:51.000Z",
+        "button": null,
+        "deeplink": null,
+        "effects": null,
+        "shareUrl": "https://feed.thecoffeehouse.com/the-coffee-house-go-green-chuoi-hoat-dong-vi-moi-truong-ben-vung"
+      },
+      {
+        "id": "5dafd7f14e13a80001af61c4",
+        "title": "RED HERBAL - Bạn đã thử chưa?",
+        "url": "https://feed.thecoffeehouse.com/red-herbal-ban-da-thu-chua/?mobile=1",
+        "image": "https://feed.thecoffeehouse.com/content/images/2019/10/IMAGE-2019-10-24-15-49-21.jpg",
+        "content": "Vào mùa thu này, The Coffee House sẽ mang đến cho bạn thêm 2 hương vị Trà mới, được làm từ “Rooibos tea” ...",
+        "date": "2019-10-23T04:34:37.000Z",
+        "button": null,
+        "deeplink": null,
+        "effects": null,
+        "shareUrl": "https://feed.thecoffeehouse.com/red-herbal-ban-da-thu-chua"
+      }
+    ]
+  },
+  {
+    "id": "5d0c8967014ad30001a8eb9a",
+    "name": "#CoffeeLover",
+    "posts": [
+      {
+        "id": "5e46446c4e13a80001af62e3",
+        "title": "Hương Vị \"Handbrew\" Mới - Bạn Đã Thử Chưa?",
+        "url": "https://feed.thecoffeehouse.com/huong-vi-handbrew-moi-ban-da-thu-chua/?mobile=1",
+        "image": "https://feed.thecoffeehouse.com/content/images/2020/02/Untitled-1.jpg",
+        "content": "Tiếp nối những hương vị “specialty coffee” tuyệt vời. Tháng 2 này, The Coffee House Signature sẽ đưa bạn đến trải nghiệm thêm 1 vùng đất mới, ",
+        "date": "2020-02-14T07:09:57.000Z",
+        "button": null,
+        "deeplink": null,
+        "effects": null,
+        "shareUrl": "https://feed.thecoffeehouse.com/huong-vi-handbrew-moi-ban-da-thu-chua"
+      },
+      {
+        "id": "5e008b7b4e13a80001af625f",
+        "title": "Nhà Signature - có vị mới cho bạn",
+        "url": "https://feed.thecoffeehouse.com/huong-vi-moi-cho-mua-le-hoi-tai-the-coffee-house-signature/?mobile=1",
+        "image": "https://feed.thecoffeehouse.com/content/images/2019/12/signature_800x450.jpg",
+        "content": "Vào mùa lễ hội cuối năm, The Coffee House Signature sẽ mang đến cho bạn thêm 2 hương vị đặc biệt được làm từ những loại sữa hạt thơm nồng ",
+        "date": "2019-12-23T10:03:01.000Z",
+        "button": null,
+        "deeplink": null,
+        "effects": null,
+        "shareUrl": "https://feed.thecoffeehouse.com/huong-vi-moi-cho-mua-le-hoi-tai-the-coffee-house-signature"
+      },
+      {
+        "id": "5db9428b4e13a80001af61d5",
+        "title": "Piccolo Latte, bạn đã thử chưa?",
+        "url": "https://feed.thecoffeehouse.com/piccolo-latte-ban-da-thu-chua/?mobile=1",
+        "image": "https://feed.thecoffeehouse.com/content/images/2019/10/2019-10-30-15.03.04.jpg",
+        "content": "Piccolo Latte - 1 phiên bản nhỏ của tách Latte quen thuộc. Được làm từ ½ shot espresso cùng với lớp sữa đánh nóng,",
+        "date": "2019-10-30T08:05:12.000Z",
+        "button": "",
+        "deeplink": "",
+        "effects": "",
+        "shareUrl": "https://feed.thecoffeehouse.com/piccolo-latte-ban-da-thu-chua"
+      },
+      {
+        "id": "5da4171e4e13a80001af61a1",
+        "title": "Cold Brew mới, bạn thử chưa?",
+        "url": "https://feed.thecoffeehouse.com/cold-brew-moi-ban-thu-chua/?mobile=1",
+        "image": "https://feed.thecoffeehouse.com/content/images/2019/10/IMAGE-2019-10-14-13-41-46.jpg",
+        "content": "Cold brew sữa tươi macchiato, nhẹ nhàng, khác biệt và đầy hiện đại",
+        "date": "2019-10-14T06:42:06.000Z",
+        "button": null,
+        "deeplink": null,
+        "effects": null,
+        "shareUrl": "https://feed.thecoffeehouse.com/cold-brew-moi-ban-thu-chua"
+      },
+      {
+        "id": "5d8840223869600001af8ddc",
+        "title": "Nhà Signature - nơi vị cà phê được trân trọng",
+        "url": "https://feed.thecoffeehouse.com/the-coffee-house-signature-noi-nhung-huong-vi-ca-phe-nguyen-ban-duoc-nang-niu-va-tran-trong/?mobile=1",
+        "image": "https://feed.thecoffeehouse.com/content/images/2019/09/IMAGE-2019-09-23-14-22-48.jpg",
+        "content": "The Coffee House Signature - nơi những hương vị cà phê nguyên bản được nâng niu và trân trọng. ",
+        "date": "2019-09-23T07:25:31.000Z",
+        "button": null,
+        "deeplink": null,
+        "effects": null,
+        "shareUrl": "https://feed.thecoffeehouse.com/the-coffee-house-signature-noi-nhung-huong-vi-ca-phe-nguyen-ban-duoc-nang-niu-va-tran-trong"
+      },
+      {
+        "id": "5d5a09a1014ad30001a8ed37",
+        "title": "Bạn đã thưởng thức Cold Brew Phúc Bồn Tử chưa?",
+        "url": "https://feed.thecoffeehouse.com/ban-da-thuong-thuc-cold-brew-phuc-bon-tu-chua/?mobile=1",
+        "image": "https://feed.thecoffeehouse.com/content/images/2019/08/IMAGE-2019-08-19-09-40-07.jpg",
+        "content": "Cold Brew Phúc Bồn Tử - Xu hướng thưởng thức cà phê hiện đại.",
+        "date": "2019-08-20T00:00:00.000Z",
+        "button": null,
+        "deeplink": null,
+        "effects": null,
+        "shareUrl": "https://feed.thecoffeehouse.com/ban-da-thuong-thuc-cold-brew-phuc-bon-tu-chua"
+      },
+      {
+        "id": "5d425ed3014ad30001a8ecf6",
+        "title": "Chuyện về chai tonic tại Nhà Signature",
+        "url": "https://feed.thecoffeehouse.com/chuyen-ve-chai-tonic-tai-nha-signature/?mobile=1",
+        "image": "https://feed.thecoffeehouse.com/content/images/2019/08/IMAGE-2019-08-01-10-44-12.jpg",
+        "content": "Với món Nitro Cold Brew Tonic, chai tonic sẽ được phục vụ riêng, để bạn thoải mái điều chỉnh độ đắng hay vị ngọt thanh cho tách cà phê thêm phần “vừa vặn”.",
+        "date": "2019-08-03T00:00:00.000Z",
+        "button": null,
+        "deeplink": null,
+        "effects": null,
+        "shareUrl": "https://feed.thecoffeehouse.com/chuyen-ve-chai-tonic-tai-nha-signature"
+      },
+      {
+        "id": "5d3055af014ad30001a8ec5a",
+        "title": "Nhà Signature có thêm điều thú vị",
+        "url": "https://feed.thecoffeehouse.com/nha-signature-co-them-dieu-thu-vi/?mobile=1",
+        "image": "https://feed.thecoffeehouse.com/content/images/2019/07/viber_image_2019-07-18_17-38-29.jpg",
+        "content": "Một mẻ rang mới vừa hoàn thành, hãy sẵn sàng cùng The Coffee House Signature, bước vào một thế giới hương vị “specialty coffee” hoàn toàn mới.",
+        "date": "2019-07-19T01:00:00.000Z",
+        "button": "",
+        "deeplink": "",
+        "effects": "",
+        "shareUrl": "https://feed.thecoffeehouse.com/nha-signature-co-them-dieu-thu-vi"
+      },
+      {
+        "id": "5d296301014ad30001a8ec3e",
+        "title": "Bạn đã thử hết 5 hương vị Cold Brew tại Nhà Signature ?",
+        "url": "https://feed.thecoffeehouse.com/ban-da-thu-het-5-huong-vi-cold-brew-tai-nha-signature/?mobile=1",
+        "image": "https://feed.thecoffeehouse.com/content/images/2019/07/IMAGE-2019-07-13-11-54-50.jpg",
+        "content": "Cold Brew – một trong những kiểu pha chế giữ lại hương vị nguyên bản nhất của hạt cà phê.",
+        "date": "2019-07-13T04:55:45.000Z",
+        "button": "",
+        "deeplink": "",
+        "effects": "",
+        "shareUrl": "https://feed.thecoffeehouse.com/ban-da-thu-het-5-huong-vi-cold-brew-tai-nha-signature"
+      },
+      {
+        "id": "5cb96db6590f59000153b2ff",
+        "title": "Cold Brew nào phải Cà phê đá!",
+        "url": "https://feed.thecoffeehouse.com/cold-brew-nao-phai-ca-phe-da/?mobile=1",
+        "image": "https://feed.thecoffeehouse.com/content/images/2019/04/viber-image-2019-04-19---14.31.14.jpg",
+        "content": "Cà phê pha lạnh và Cà phê đá lạnh nghe thì \"xêm xêm\" nhưng không có họ hàng gì đâu nhé!",
+        "date": "2019-04-19T06:44:04.000Z",
+        "button": null,
+        "deeplink": null,
+        "effects": null,
+        "shareUrl": "https://feed.thecoffeehouse.com/cold-brew-nao-phai-ca-phe-da"
+      }
+    ]
+  }
+]

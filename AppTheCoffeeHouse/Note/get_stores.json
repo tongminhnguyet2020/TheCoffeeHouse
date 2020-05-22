@@ -1,0 +1,123 @@
+{
+  "count": 5,
+  "list_store": [
+    {
+      "id": 367,
+      "km": 11625.6,
+      "distance": "11625.6 km",
+      "name": "223 Vo Van Tan",
+      "address": {
+        "street": "223 Vo Van Tan",
+        "ward": "Phuong 5",
+        "district": "Huyện Nhà Bè",
+        "state": "Hồ Chí Minh",
+        "country": "Việt Nam",
+        "full_address": "223 Vo Van Tan, Huyện Nhà Bè, Hồ Chí Minh, Việt Nam"
+      },
+      "phone": "02871087088",
+      "opening_time": "8:00",
+      "closing_time": "23:30",
+      "status": "Open",
+      "images": [
+        "http://rewards.thecoffeehouse.com/wp-content/uploads/comingsoon-1.jpg",
+        "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/5b21f8cc1acd4d02032668fd_5b46b2d6fbc686139f4d1bf5_Nguye%E2%95%A0%C3%A9%E2%95%A0%C3%A2n%20Hu%E2%95%A0%C2%A2%E2%95%A0%C3%A2u%20Tho%E2%95%A0%C3%BA%20-%20Ba%E2%95%A0%C3%87%20Ri%E2%95%A0%C3%BAa%20-%20store%20na%E2%95%A0%C3%87y%20cu%E2%95%A0%C3%A2ng%20chu%E2%95%A0%C2%A2a%20co%E2%95%A0%C3%BC%20hi%E2%95%A0%C3%87nh%20nha.jpg"
+      ],
+      "latitude": 8.606920999999998,
+      "longitude": 104.72071189999997
+    },
+    {
+      "id": 1165,
+      "km": 11640,
+      "distance": "11640 km",
+      "name": null,
+      "address": {
+        "street": "Khu Dân Cư",
+        "ward": "Dương Nội",
+        "district": "Hà Đông",
+        "state": "Hà Nội",
+        "country": "Việt Nam",
+        "full_address": "Khu Dân Cư, Hà Đông, Hà Nội, Việt Nam"
+      },
+      "phone": "02871087088",
+      "opening_time": "07:00",
+      "closing_time": "22:00",
+      "status": "Open",
+      "images": [
+        "http://rewards.thecoffeehouse.com/wp-content/uploads/comingsoon-1.jpg"
+      ],
+      "latitude": 20.9899527,
+      "longitude": 105.7509889
+    },
+    {
+      "id": 1162,
+      "km": 11640.7,
+      "distance": "11640.7 km",
+      "name": null,
+      "address": {
+        "street": "B3-01, Gardenia Hàm Nghi",
+        "ward": "Mỹ Đình",
+        "district": "Nam Từ Liêm",
+        "state": "Hà Nội",
+        "country": "Việt Nam",
+        "full_address": "B3-01, Gardenia Hàm Nghi, Nam Từ Liêm, Hà Nội, Việt Nam"
+      },
+      "phone": "02871087088",
+      "opening_time": "07:00",
+      "closing_time": "22:00",
+      "status": "Open",
+      "images": [
+        "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/5d2ea9ec696fb35b294ae43b_IMAGE%202019-08-12%2011%3A31%3A52.jpg"
+      ],
+      "latitude": 21.0359483,
+      "longitude": 105.762039
+    },
+    {
+      "id": 1167,
+      "km": 11641.5,
+      "distance": "11641.5 km",
+      "name": null,
+      "address": {
+        "street": "Tầng 1 tòa nhà CT5A thuộc dự án văn Khê",
+        "ward": null,
+        "district": "Hà Đông",
+        "state": "Hà Nội",
+        "country": "Việt Nam",
+        "full_address": "Tầng 1 tòa nhà CT5A thuộc dự án văn Khê, Hà Đông, Hà Nội, Việt Nam"
+      },
+      "phone": "02871087088",
+      "opening_time": "07:00",
+      "closing_time": "22:00",
+      "status": "Open",
+      "images": [
+        "http://rewards.thecoffeehouse.com/wp-content/uploads/comingsoon-1.jpg"
+      ],
+      "latitude": 20.9733083,
+      "longitude": 105.7629288
+    },
+    {
+      "id": 371,
+      "km": 11642.1,
+      "distance": "11642.1 km",
+      "name": "Chung cư Victoria Văn phú Tòa V2 Khu đô thị Văn Phú",
+      "address": {
+        "street": "Chung cư Victoria Văn phú Tòa V2 Khu đô thị Văn Phú",
+        "ward": "Phú La",
+        "district": "Hà Đông",
+        "state": "Hà Nội",
+        "country": "Việt Nam",
+        "full_address": "Chung cư Victoria Văn phú Tòa V2 Khu đô thị Văn Phú, Hà Đông, Hà Nội, Việt Nam"
+      },
+      "phone": "02871087088",
+      "opening_time": "7:00",
+      "closing_time": "22:00",
+      "status": "Open",
+      "images": [
+        "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/sqnLwQ4epcBPr8CUUvTlRcAfYgJmxdF07SGHGWNQ.jpeg",
+        "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/Xf9ZbO09aqizGmgjhzylQ1jsvWPxbLjXF16XzDmt.jpeg",
+        "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/K7aJ3e9kG0nA7e5tltZKsvIglMxb4LCQwtlsFpQS.jpeg"
+      ],
+      "latitude": 20.959236,
+      "longitude": 105.768069
+    }
+  ]
+}

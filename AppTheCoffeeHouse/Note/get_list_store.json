@@ -1,0 +1,4150 @@
+{
+  "states": [
+    {
+      "id": 86,
+      "name": "Cần Thơ",
+      "count": 3,
+      "districts": [
+        {
+          "id": 325,
+          "name": "Ninh Kiều",
+          "count": 3,
+          "state_name": "Cần Thơ",
+          "stores": [
+            {
+              "id": 497,
+              "name": "8 Hòa Bình",
+              "distance": "",
+              "address": {
+                "street": "8 Hòa Bình",
+                "ward": "Phường Tân An",
+                "district": "Ninh Kiều",
+                "state": "Cần Thơ",
+                "country": "Việt Nam",
+                "full_address": "8 Hòa Bình, Phường Tân An, Ninh Kiều, Cần Thơ, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/5b693704fbc68618ad24f8a7_TCH%20CTO%2008%20Ho%E2%95%A0%C3%87a%20Bi%E2%95%A0%C3%87nh.jpg",
+                "https://rewards.thecoffeehouse.com/wp-content/uploads/cantho_hoabinh_2.jpg",
+                "https://rewards.thecoffeehouse.com/wp-content/uploads/cantho_hoabinh_3.jpg"
+              ],
+              "latitude": "10.034662000",
+              "longitude": "105.783490300"
+            },
+            {
+              "id": 1159,
+              "name": "68 Ba Tháng Hai",
+              "distance": "",
+              "address": {
+                "street": "68 Ba Tháng Hai",
+                "ward": "Xuân Khánh",
+                "district": "Ninh Kiều",
+                "state": "Cần Thơ",
+                "country": "Việt Nam",
+                "full_address": "68 Ba Tháng Hai, Xuân Khánh, Ninh Kiều, Cần Thơ, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/5d1973af696fb3411e5ad775_IMAGE%202019-07-22%2010%3A17%3A58.jpg"
+              ],
+              "latitude": "10.030913000",
+              "longitude": "105.773240000"
+            },
+            {
+              "id": 547,
+              "name": "170 Nguyễn Văn Cừ",
+              "distance": "",
+              "address": {
+                "street": "170 Nguyễn Văn Cừ",
+                "ward": "An Khánh",
+                "district": "Ninh Kiều",
+                "state": "Cần Thơ",
+                "country": "Việt Nam",
+                "full_address": "170 Nguyễn Văn Cừ, An Khánh, Ninh Kiều, Cần Thơ, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/5c299552fbc6862bb315fec7_TCH%20CTO%20Thu%E2%95%A0%C2%A2%E2%95%A0%C3%ABa%20%E2%94%80%C3%89a%E2%95%A0%C3%A9%E2%95%A0%C3%BCt%20so%E2%95%A0%C3%A9%E2%95%A0%C3%BC%20600%20-%20store%20na%E2%95%A0%C3%87y%20te%E2%95%A0%C3%A9n%20Nguye%E2%95%A0%C3%A9%E2%95%A0%C3%A2n%20Va%E2%95%A0%C3%A5n%20Cu%E2%95%A0%C2%A2%E2%95%A0%C3%87%20-%20Ca%E2%95%A0%C3%A9%E2%95%A0%C3%87n%20Tho%E2%95%A0%C2%A2%20nha.jpg"
+              ],
+              "latitude": "10.034301400",
+              "longitude": "105.754008900"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "name": "Thanh Hóa",
+      "count": 1,
+      "districts": [
+        {
+          "id": 324,
+          "name": "Thành phố Thanh Hóa",
+          "count": 1,
+          "state_name": "Thanh Hóa",
+          "stores": [
+            {
+              "id": 496,
+              "name": "27 Lê Lợi",
+              "distance": "",
+              "address": {
+                "street": "27 Lê Lợi",
+                "ward": "Phường Lam Sơn",
+                "district": "Thành phố Thanh Hóa",
+                "state": "Thanh Hóa",
+                "country": "Việt Nam",
+                "full_address": "27 Lê Lợi, Phường Lam Sơn, Thành phố Thanh Hóa, Thanh Hóa, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/5b693704fbc68618ad24f8ab_TCH%20THA%2027-29%20Le%E2%95%A0%C3%A9%20Lo%E2%95%A0%C2%A2%E2%95%A0%C3%BAi.jpg",
+                "https://rewards.thecoffeehouse.com/wp-content/uploads/thanhhoa_leloi_2.jpg",
+                "https://rewards.thecoffeehouse.com/wp-content/uploads/thanhhoa_leloi_3.jpg"
+              ],
+              "latitude": "19.807388000",
+              "longitude": "105.777363000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "name": "Đồng Nai",
+      "count": 2,
+      "districts": [
+        {
+          "id": 122,
+          "name": "Thành Phố Biên Hòa",
+          "count": 2,
+          "state_name": "Đồng Nai",
+          "stores": [
+            {
+              "id": 29,
+              "name": "240 Phạm Văn Thuận",
+              "distance": "",
+              "address": {
+                "street": "240 Phạm Văn Thuận",
+                "ward": "Phường Thống Nhất",
+                "district": "Thành Phố Biên Hòa",
+                "state": "Đồng Nai",
+                "country": "Việt Nam",
+                "full_address": "240 Phạm Văn Thuận, Phường Thống Nhất, Thành Phố Biên Hòa, Đồng Nai, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/06vQZkqwKPxUnW04OdcgSur7HxRfyIIklopZ3nO4.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/qRuopip9Dx67EnawDnSRuKtl15Z3ZKIxirOPs9id.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/lAoMuddyVjCVi6tKIH6sm3qY1VxB8QOWAiSf0xHU.jpeg"
+              ],
+              "latitude": "10.958118300",
+              "longitude": "106.833538600"
+            },
+            {
+              "id": 239,
+              "name": "R132 Võ Thị Sáu",
+              "distance": "",
+              "address": {
+                "street": "R132 Võ Thị Sáu",
+                "ward": "Phường Thống Nhất",
+                "district": "Thành Phố Biên Hòa",
+                "state": "Đồng Nai",
+                "country": "Việt Nam",
+                "full_address": "R132 Võ Thị Sáu, Phường Thống Nhất, Thành Phố Biên Hòa, Đồng Nai, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/1ZRddQRvSOCgY3mK3HBx4B9pNknfko9g93LYmblX.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/639MZleGDx3b9cdB0b9526GTcS3jMBos8hdxjpD2.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/6BYCNeNDIgOoyPq7ixjGEsvd36dkFf3IZkZztybu.jpeg"
+              ],
+              "latitude": "10.947462000",
+              "longitude": "106.830116000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "name": "Hồ Chí Minh",
+      "count": 88,
+      "districts": [
+        {
+          "id": 48,
+          "name": "Huyện Bình Chánh",
+          "count": 2,
+          "state_name": "Hồ Chí Minh",
+          "stores": [
+            {
+              "id": 117,
+              "name": "114 Đường 9A Khu Dân cư Trung Sơn",
+              "distance": "",
+              "address": {
+                "street": "114 Đường 9A Khu Dân cư Trung Sơn",
+                "ward": "Xã Bình Hưng",
+                "district": "Huyện Bình Chánh",
+                "state": "Hồ Chí Minh",
+                "country": "Việt Nam",
+                "full_address": "114 Đường 9A Khu Dân cư Trung Sơn, Xã Bình Hưng, Huyện Bình Chánh, Hồ Chí Minh, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/O40nSielBeiYaP6QpdrXGTLKt7LPDpwyFXovFYfK.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/9NY3epOL7UZ4x9jS8fp0ZuU4fBaroKGG4TsfPu9N.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/KfIw9uKQEMMCdLYUywxhuKChadCEfbCX9ufT1tjN.jpeg"
+              ],
+              "latitude": "10.735475600",
+              "longitude": "106.687231800"
+            },
+            {
+              "id": 1169,
+              "name": "Đường 9A",
+              "distance": "",
+              "address": {
+                "street": "Đường 9A",
+                "ward": "Bình Hưng",
+                "district": "Huyện Bình Chánh",
+                "state": "Hồ Chí Minh",
+                "country": "Việt Nam",
+                "full_address": "Đường 9A, Bình Hưng, Huyện Bình Chánh, Hồ Chí Minh, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "http://rewards.thecoffeehouse.com/wp-content/uploads/comingsoon-1.jpg"
+              ],
+              "latitude": "10.732435400",
+              "longitude": "106.688652300"
+            }
+          ]
+        },
+        {
+          "id": 47,
+          "name": "Huyện Hóc Môn",
+          "count": 1,
+          "state_name": "Hồ Chí Minh",
+          "stores": [
+            {
+              "id": 129,
+              "name": "93/5 Nguyễn Ảnh Thủ",
+              "distance": "",
+              "address": {
+                "street": "93/5 Nguyễn Ảnh Thủ",
+                "ward": "Tân Xuân",
+                "district": "Huyện Hóc Môn",
+                "state": "Hồ Chí Minh",
+                "country": "Việt Nam",
+                "full_address": "93/5 Nguyễn Ảnh Thủ, Tân Xuân, Huyện Hóc Môn, Hồ Chí Minh, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/I3ulyCofx59Bb4usS3U4o9xdCUVOClCk3BItidlQ.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/EKwF3fMvVG9QmaMqIz1iKwbgPjei7UKXzawrPjj3.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/ucoBk794tWgPwchp3ON1gtyl5DgQofMzn7Mw2gX8.jpeg"
+              ],
+              "latitude": "10.865326000",
+              "longitude": "106.613966000"
+            }
+          ]
+        },
+        {
+          "id": 49,
+          "name": "Huyện Nhà Bè",
+          "count": 1,
+          "state_name": "Hồ Chí Minh",
+          "stores": [
+            {
+              "id": 367,
+              "name": "223 Vo Van Tan",
+              "distance": "",
+              "address": {
+                "street": "223 Vo Van Tan",
+                "ward": "Phuong 5",
+                "district": "Huyện Nhà Bè",
+                "state": "Hồ Chí Minh",
+                "country": "Việt Nam",
+                "full_address": "223 Vo Van Tan, Phuong 5, Huyện Nhà Bè, Hồ Chí Minh, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "http://rewards.thecoffeehouse.com/wp-content/uploads/comingsoon-1.jpg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/5b21f8cc1acd4d02032668fd_5b46b2d6fbc686139f4d1bf5_Nguye%E2%95%A0%C3%A9%E2%95%A0%C3%A2n%20Hu%E2%95%A0%C2%A2%E2%95%A0%C3%A2u%20Tho%E2%95%A0%C3%BA%20-%20Ba%E2%95%A0%C3%87%20Ri%E2%95%A0%C3%BAa%20-%20store%20na%E2%95%A0%C3%87y%20cu%E2%95%A0%C3%A2ng%20chu%E2%95%A0%C2%A2a%20co%E2%95%A0%C3%BC%20hi%E2%95%A0%C3%87nh%20nha.jpg"
+              ],
+              "latitude": "0.000000000",
+              "longitude": "0.000000000"
+            }
+          ]
+        },
+        {
+          "id": 27,
+          "name": "Quận 1",
+          "count": 4,
+          "state_name": "Hồ Chí Minh",
+          "stores": [
+            {
+              "id": 296,
+              "name": "47-49 Lê Thị Riêng",
+              "distance": "",
+              "address": {
+                "street": "47-49 Lê Thị Riêng",
+                "ward": "Phường Bến Thành",
+                "district": "Quận 1",
+                "state": "Hồ Chí Minh",
+                "country": "Việt Nam",
+                "full_address": "47-49 Lê Thị Riêng, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/zXTTK9bcMvrM3opq7t1tmZZWSdRp5GLequ6DV4wU.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/AEANferksCWWIPKt5CDZ9LALgQvR3MtAQ9ARq5mJ.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/d0iyeiRyzibQIuZK2n9xDJNMJ9Wmj0XXoQ4T0pCe.jpeg"
+              ],
+              "latitude": "10.771284000",
+              "longitude": "106.691489000"
+            },
+            {
+              "id": 18,
+              "name": "141 Nguyễn Thái Bình",
+              "distance": "",
+              "address": {
+                "street": "141 Nguyễn Thái Bình",
+                "ward": "Phường Nguyễn Thái Bình",
+                "district": "Quận 1",
+                "state": "Hồ Chí Minh",
+                "country": "Việt Nam",
+                "full_address": "141 Nguyễn Thái Bình, Phường Nguyễn Thái Bình, Quận 1, Hồ Chí Minh, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/AYQk0XLBdrZ2KBm5RUu7SuFLjlB3w23FHg1QXMg4.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/dUbfE6Ki47syrES65fmJLhdTrHjj8XaB0yn0A73D.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/rRbFXjynPuySXsFTCIQ1ULNhUmrh810E0pOMX5PG.jpeg"
+              ],
+              "latitude": "10.768345000",
+              "longitude": "106.698828000"
+            },
+            {
+              "id": 383,
+              "name": "159 Phạm Ngũ Lão",
+              "distance": "",
+              "address": {
+                "street": "159 Phạm Ngũ Lão",
+                "ward": "Phường Phạm Ngũ Lão",
+                "district": "Quận 1",
+                "state": "Hồ Chí Minh",
+                "country": "Việt Nam",
+                "full_address": "159 Phạm Ngũ Lão, Phường Phạm Ngũ Lão, Quận 1, Hồ Chí Minh, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/5b21f8cb1acd4d02032668ed_1.%20Pham%20ngu%20lao.jpg",
+                "http://rewards.thecoffeehouse.com/wp-content/uploads/phamngulao_2.jpg",
+                "http://rewards.thecoffeehouse.com/wp-content/uploads/phamngulao_3.jpg"
+              ],
+              "latitude": "10.769144000",
+              "longitude": "106.694623000"
+            },
+            {
+              "id": 1156,
+              "name": "180 Trần Quang Khải",
+              "distance": "",
+              "address": {
+                "street": "180 Trần Quang Khải",
+                "ward": "Phường Tân Định",
+                "district": "Quận 1",
+                "state": "Hồ Chí Minh",
+                "country": "Việt Nam",
+                "full_address": "180 Trần Quang Khải, Phường Tân Định, Quận 1, Hồ Chí Minh, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/5d147678696fb3596835615b_IMAGE%202019-07-22%2010%3A10%3A37.jpg"
+              ],
+              "latitude": "10.791777000",
+              "longitude": "106.689759000"
+            }
+          ]
+        },
+        {
+          "id": 38,
+          "name": "Quận 10",
+          "count": 4,
+          "state_name": "Hồ Chí Minh",
+          "stores": [
+            {
+              "id": 506,
+              "name": "175B Cao Thắng",
+              "distance": "",
+              "address": {
+                "street": "175B Cao Thắng",
+                "ward": "Phường 12",
+                "district": "Quận 10",
+                "state": "Hồ Chí Minh",
+                "country": "Việt Nam",
+                "full_address": "175B Cao Thắng, Phường 12, Quận 10, Hồ Chí Minh, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/5b6d0c17fbc6860a6f541dac_TCH%20HCM%20175B%20Cao%20Tha%E2%95%A0%C3%A5%E2%95%A0%C3%BCng%20no%E2%95%A0%C3%A9%E2%95%A0%C3%BCi%20da%E2%95%A0%C3%87i.jpg",
+                "https://rewards.thecoffeehouse.com/wp-content/uploads/caothang2_2.jpg",
+                "https://rewards.thecoffeehouse.com/wp-content/uploads/caothang2_3.jpg"
+              ],
+              "latitude": "10.774543000",
+              "longitude": "106.675598500"
+            },
+            {
+              "id": 13,
+              "name": "798 Sư Vạn Hạnh",
+              "distance": "",
+              "address": {
+                "street": "798 Sư Vạn Hạnh",
+                "ward": "Phường 12",
+                "district": "Quận 10",
+                "state": "Hồ Chí Minh",
+                "country": "Việt Nam",
+                "full_address": "798 Sư Vạn Hạnh, Phường 12, Quận 10, Hồ Chí Minh, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/oIgarF66kRbSVsQ8qBPoWG93DrIKg1UE78pOwJMR.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/DaFTHTIpJxdpBlFNiJvnHs77tJtjMccU2TuB0jnP.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/eAuDgD2NflrusKVYuMePXfiWHyFnXOY0YGMyFee3.jpeg"
+              ],
+              "latitude": "10.773811500",
+              "longitude": "106.667739000"
+            },
+            {
+              "id": 32,
+              "name": "572 Ba Tháng Hai",
+              "distance": "",
+              "address": {
+                "street": "572 Ba Tháng Hai",
+                "ward": "Phường 14",
+                "district": "Quận 10",
+                "state": "Hồ Chí Minh",
+                "country": "Việt Nam",
+                "full_address": "572 Ba Tháng Hai, Phường 14, Quận 10, Hồ Chí Minh, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/ppo4iEjqfovS7Vmbji3dymnVXHyo1OeoRtNUR1v4.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/iVu8u5GwlFxmN9DLfgiw0zV8RMNoUZS3OSN8lh3P.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/mFVU1bcpIrQfBfZe68F2O66XbZzlAY4G4Vq9DPcS.jpeg"
+              ],
+              "latitude": "10.766085000",
+              "longitude": "106.664049000"
+            },
+            {
+              "id": 554,
+              "name": "25A Đồng Nai",
+              "distance": "",
+              "address": {
+                "street": "25A Đồng Nai",
+                "ward": "Phường 15",
+                "district": "Quận 10",
+                "state": "Hồ Chí Minh",
+                "country": "Việt Nam",
+                "full_address": "25A Đồng Nai, Phường 15, Quận 10, Hồ Chí Minh, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/5cda29e8696fb37239351ca7_IMAGE%202019-08-13%2011%3A30%3A45.jpg"
+              ],
+              "latitude": "10.780605300",
+              "longitude": "106.661088800"
+            }
+          ]
+        },
+        {
+          "id": 39,
+          "name": "Quận 11",
+          "count": 4,
+          "state_name": "Hồ Chí Minh",
+          "stores": [
+            {
+              "id": 127,
+              "name": "45 Đường Số 5 - Cư xá Bình Thới",
+              "distance": "",
+              "address": {
+                "street": "45 Đường Số 5 - Cư xá Bình Thới",
+                "ward": "Phường 8",
+                "district": "Quận 11",
+                "state": "Hồ Chí Minh",
+                "country": "Việt Nam",
+                "full_address": "45 Đường Số 5 - Cư xá Bình Thới, Phường 8, Quận 11, Hồ Chí Minh, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/qWIy98NKjmHyQG4NFrfDAYQYRxdmVI3RqzQLpfYn.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/ZCgB4dXj7oYYc0cE1bZxnwAKvZsaEsBOu11rN7Dv.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/onwg460CBcplAodB82zjxmvvrvyD8EOgTY80svp7.jpeg"
+              ],
+              "latitude": "10.761853000",
+              "longitude": "106.648537000"
+            },
+            {
+              "id": 126,
+              "name": "44 Hòa Bình",
+              "distance": "",
+              "address": {
+                "street": "44 Hòa Bình",
+                "ward": "Phường 5",
+                "district": "Quận 11",
+                "state": "Hồ Chí Minh",
+                "country": "Việt Nam",
+                "full_address": "44 Hòa Bình, Phường 5, Quận 11, Hồ Chí Minh, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/ieX4D1YNpYavLI7oL8V5VoI8kYGr3k4CSmkY7YkY.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/t2oLQidYNlUdjjSMOD314PF8fbvcs9IZ5bTFnos7.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/5MYNmHUfVPTQDkVpTO7iQmcYRursjAjRaBIcHi1w.jpeg"
+              ],
+              "latitude": "10.767337000",
+              "longitude": "106.641046000"
+            },
+            {
+              "id": 23,
+              "name": "403A-405A Lê Đại Hành",
+              "distance": "",
+              "address": {
+                "street": "403A-405A Lê Đại Hành",
+                "ward": "Phường 11",
+                "district": "Quận 11",
+                "state": "Hồ Chí Minh",
+                "country": "Việt Nam",
+                "full_address": "403A-405A Lê Đại Hành, Phường 11, Quận 11, Hồ Chí Minh, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/qaRjH2s3SFd0SqRojyUjZTYxeSSXoB7AREopfzaY.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/LcwCIHIeEtzjGZ0OWzQGd1wwd1Bnc1txk8SRodBp.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/yQxHhqWUY707qQK0PKXJdBYH03rcd9RxV1vTjEbp.jpeg"
+              ],
+              "latitude": "10.767479000",
+              "longitude": "106.653151000"
+            },
+            {
+              "id": 14,
+              "name": "249 Lý Thường Kiệt",
+              "distance": "",
+              "address": {
+                "street": "249 Lý Thường Kiệt",
+                "ward": "Phường 15",
+                "district": "Quận 11",
+                "state": "Hồ Chí Minh",
+                "country": "Việt Nam",
+                "full_address": "249 Lý Thường Kiệt, Phường 15, Quận 11, Hồ Chí Minh, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/ZCcV1NqraQn1Dgsvcm7BPBz9m3kenP1zQ99oWM0z.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/Xob1mduY3tQ5UllzG63j9MkRsroGthQL6dwtKIi7.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/ytsyJuXKx5znNnkx0sSIjjZzExplzDOrk16BA5dL.jpeg"
+              ],
+              "latitude": "10.774658400",
+              "longitude": "106.656772800"
+            }
+          ]
+        },
+        {
+          "id": 28,
+          "name": "Quận 12",
+          "count": 1,
+          "state_name": "Hồ Chí Minh",
+          "stores": [
+            {
+              "id": 219,
+              "name": "114-116 Nguyễn Ảnh Thủ",
+              "distance": "",
+              "address": {
+                "street": "114-116 Nguyễn Ảnh Thủ",
+                "ward": "Phường Hiệp Thành",
+                "district": "Quận 12",
+                "state": "Hồ Chí Minh",
+                "country": "Việt Nam",
+                "full_address": "114-116 Nguyễn Ảnh Thủ, Phường Hiệp Thành, Quận 12, Hồ Chí Minh, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/YKkAbEEihLS37ufrjtbvPlno1b9ONNlti9rT3wKi.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/JW97HYwflNWygBRlmpapvvPlCXLmygSR4WKINQu3.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/qphf8mXkymZYiPxuHjgyTArHbchMqJ1iAbQRqCH2.jpeg"
+              ],
+              "latitude": "10.876358000",
+              "longitude": "106.647659000"
+            }
+          ]
+        },
+        {
+          "id": 36,
+          "name": "Quận 2",
+          "count": 5,
+          "state_name": "Hồ Chí Minh",
+          "stores": [
+            {
+              "id": 500,
+              "name": "1 Song Hành",
+              "distance": "",
+              "address": {
+                "street": "1 Song Hành",
+                "ward": "Phường An Phú",
+                "district": "Quận 2",
+                "state": "Hồ Chí Minh",
+                "country": "Việt Nam",
+                "full_address": "1 Song Hành, Phường An Phú, Quận 2, Hồ Chí Minh, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/5b693704fbc68618ad24f8a8_TCH%20HCM%20Cantavil%20An%20Phu%E2%95%A0%C3%BC.jpg",
+                "https://rewards.thecoffeehouse.com/wp-content/uploads/cantavilq2_2.jpg",
+                "https://rewards.thecoffeehouse.com/wp-content/uploads/cantavilq2_3.jpg"
+              ],
+              "latitude": "10.801622000",
+              "longitude": "106.747205000"
+            },
+            {
+              "id": 463,
+              "name": "670 Nguyễn Duy Trinh",
+              "distance": "",
+              "address": {
+                "street": "670 Nguyễn Duy Trinh",
+                "ward": "Phường Bình Trưng Đông",
+                "district": "Quận 2",
+                "state": "Hồ Chí Minh",
+                "country": "Việt Nam",
+                "full_address": "670 Nguyễn Duy Trinh, Phường Bình Trưng Đông, Quận 2, Hồ Chí Minh, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/5b3b04d5fbc68621f3385253_1.%20Nguyen%20duy%20trinh.jpg",
+                "http://rewards.thecoffeehouse.com/wp-content/uploads/nguyenduytrinh_2.jpg",
+                "http://rewards.thecoffeehouse.com/wp-content/uploads/nguyenduytrinh_3.jpg"
+              ],
+              "latitude": "10.788908000",
+              "longitude": "106.778416000"
+            },
+            {
+              "id": 504,
+              "name": "187 Trần Não",
+              "distance": "",
+              "address": {
+                "street": "187 Trần Não",
+                "ward": "Phường Bình An",
+                "district": "Quận 2",
+                "state": "Hồ Chí Minh",
+                "country": "Việt Nam",
+                "full_address": "187 Trần Não, Phường Bình An, Quận 2, Hồ Chí Minh, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/sM67RKs3E50rnZm57WUOdeD7kiUIrrezYciJbzuj.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/Sq7IN2BKvl9DjwxS93yGuvPEDmzSDj4s5N4PMAOv.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/rPbj23Q2WttMWF0oAemWJqEvDdCRNav78J8on9tB.jpeg"
+              ],
+              "latitude": "10.787926000",
+              "longitude": "106.730029000"
+            },
+            {
+              "id": 382,
+              "name": "57 Xuân Thủy",
+              "distance": "",
+              "address": {
+                "street": "57 Xuân Thủy",
+                "ward": "Phường Thảo Điền",
+                "district": "Quận 2",
+                "state": "Hồ Chí Minh",
+                "country": "Việt Nam",
+                "full_address": "57 Xuân Thủy, Phường Thảo Điền, Quận 2, Hồ Chí Minh, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/2Y058s0RhjOfZ01srxR5jhDVvzDhahbFdlF6APTI.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/lICxgI8OK4FQXAlPJ7ZijxeXwJ7XWD4k1OPA02Xq.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/hYJB2XRQL2zFuoMGMcVu7b8sAsJD1ibymYNOJ2DW.jpeg"
+              ],
+              "latitude": "10.803691000",
+              "longitude": "106.733104000"
+            },
+            {
+              "id": 1157,
+              "name": "17 Mai Chí Thọ",
+              "distance": "",
+              "address": {
+                "street": "17 Mai Chí Thọ",
+                "ward": "Phường Bình Khánh",
+                "district": "Quận 2",
+                "state": "Hồ Chí Minh",
+                "country": "Việt Nam",
+                "full_address": "17 Mai Chí Thọ, Phường Bình Khánh, Quận 2, Hồ Chí Minh, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/5d147678696fb3596835615c_IMAGE%202019-08-13%2011%3A33%3A02.jpg"
+              ],
+              "latitude": "10.780950500",
+              "longitude": "106.733604200"
+            }
+          ]
+        },
+        {
+          "id": 37,
+          "name": "Quận 3",
+          "count": 6,
+          "state_name": "Hồ Chí Minh",
+          "stores": [
+            {
+              "id": 11,
+              "name": "86 Cao Thắng",
+              "distance": "",
+              "address": {
+                "street": "86 Cao Thắng",
+                "ward": "Phường 4",
+                "district": "Quận 3",
+                "state": "Hồ Chí Minh",
+                "country": "Việt Nam",
+                "full_address": "86 Cao Thắng, Phường 4, Quận 3, Hồ Chí Minh, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/YDZRHQ5KJQlsCaSBWdy7sPtMIlbGhenaavpQMdF6.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/XKHpekLXWFBqk8CJ5MK8vleGwtaqjSELYLezOiSE.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/N1strlKnTSvEuM2AeN1vIl9uflcGO1aQSVMTc7cc.jpeg"
+              ],
+              "latitude": "10.771063500",
+              "longitude": "106.681110100"
+            },
+            {
+              "id": 47,
+              "name": "6A Ngô Thời Nhiệm",
+              "distance": "",
+              "address": {
+                "street": "6A Ngô Thời Nhiệm",
+                "ward": "Phường 7",
+                "district": "Quận 3",
+                "state": "Hồ Chí Minh",
+                "country": "Việt Nam",
+                "full_address": "6A Ngô Thời Nhiệm, Phường 7, Quận 3, Hồ Chí Minh, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/jmARQEpuEoZU4TRtdWksYy9JMMZheSQircD7ssHW.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/JPAPHK5svnTKQyyNmOPfpDeUq0hUwfhDrUusoLEw.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/wANcAerMXVSIX8dI26RFVf0a1UtYkG0Tyw3ssNS2.jpeg"
+              ],
+              "latitude": "10.780716000",
+              "longitude": "106.690051000"
+            },
+            {
+              "id": 307,
+              "name": "TCH Signature 19B Phạm Ngọc Thạch",
+              "distance": "",
+              "address": {
+                "street": "TCH Signature 19B Phạm Ngọc Thạch",
+                "ward": "Phường 6",
+                "district": "Quận 3",
+                "state": "Hồ Chí Minh",
+                "country": "Việt Nam",
+                "full_address": "TCH Signature 19B Phạm Ngọc Thạch, Phường 6, Quận 3, Hồ Chí Minh, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/XAonGImKAb5nYiWg55ji0nSU5gJBkX40FiZHXsgw.jpeg",
+                "http://rewards.thecoffeehouse.com/wp-content/uploads/2-1.jpg"
+              ],
+              "latitude": "10.783696000",
+              "longitude": "106.694513000"
+            },
+            {
+              "id": 114,
+              "name": "223 Võ Văn Tần",
+              "distance": "",
+              "address": {
+                "street": "223 Võ Văn Tần",
+                "ward": "Phường 5",
+                "district": "Quận 3",
+                "state": "Hồ Chí Minh",
+                "country": "Việt Nam",
+                "full_address": "223 Võ Văn Tần, Phường 5, Quận 3, Hồ Chí Minh, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/e9kufkGK7xBSv4uBFF4iDkqY3VF7kRYFP32RLKcY.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/7cJlEIwPs193uBsW3HY0qIUWJOXRVtTaccCm0sT2.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/pZXjuNIAqzm7gYbtLJUjyRX5jDNY80KbXGxc4Pw8.jpeg"
+              ],
+              "latitude": "10.773043000",
+              "longitude": "106.687147000"
+            },
+            {
+              "id": 22,
+              "name": "183F Trần Quốc Thảo",
+              "distance": "",
+              "address": {
+                "street": "183F Trần Quốc Thảo",
+                "ward": "Phường 9",
+                "district": "Quận 3",
+                "state": "Hồ Chí Minh",
+                "country": "Việt Nam",
+                "full_address": "183F Trần Quốc Thảo, Phường 9, Quận 3, Hồ Chí Minh, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/VCZdifuiL9srVOUF8Vh3vapGeowcS9ioEPUx0Z5J.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/22VB1rqnYtuHadQooHQBrgSfpDW5yDR4y4xKdBCP.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/TecPwjCwoTGc5nE9UfURByiBbNG1f58SjdoqKOUh.jpeg"
+              ],
+              "latitude": "10.785546000",
+              "longitude": "106.681859000"
+            },
+            {
+              "id": 489,
+              "name": "63 Rạch Bùng Binh",
+              "distance": "",
+              "address": {
+                "street": "63 Rạch Bùng Binh",
+                "ward": "Phường 9",
+                "district": "Quận 3",
+                "state": "Hồ Chí Minh",
+                "country": "Việt Nam",
+                "full_address": "63 Rạch Bùng Binh, Phường 9, Quận 3, Hồ Chí Minh, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/5b46b2d6fbc686139f4d1bf2_tch-rachbungbinh.jpg",
+                "https://rewards.thecoffeehouse.com/wp-content/uploads/rachbungbung_2.jpg",
+                "https://rewards.thecoffeehouse.com/wp-content/uploads/rachbungbung_3.jpg"
+              ],
+              "latitude": "10.782558000",
+              "longitude": "106.680152000"
+            }
+          ]
+        },
+        {
+          "id": 40,
+          "name": "Quận 4",
+          "count": 1,
+          "state_name": "Hồ Chí Minh",
+          "stores": [
+            {
+              "id": 332,
+              "name": "35-37 Đuờng 41",
+              "distance": "",
+              "address": {
+                "street": "35-37 Đuờng 41",
+                "ward": "Phường 6",
+                "district": "Quận 4",
+                "state": "Hồ Chí Minh",
+                "country": "Việt Nam",
+                "full_address": "35-37 Đuờng 41, Phường 6, Quận 4, Hồ Chí Minh, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/YCBNVl8TXifDh3GaIbJqmPpShdhPQJdtt1T0KRrx.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/cY6mnw3RUSkuwEviGHRFQr2ADtD3VokC9obdZgog.jpeg",
+                "http://rewards.thecoffeehouse.com/wp-content/uploads/duong413.jpg"
+              ],
+              "latitude": "10.758672300",
+              "longitude": "106.700742900"
+            }
+          ]
+        },
+        {
+          "id": 41,
+          "name": "Quận 5",
+          "count": 1,
+          "state_name": "Hồ Chí Minh",
+          "stores": [
+            {
+              "id": 1164,
+              "name": "682 Trần Hưng Đạo",
+              "distance": "",
+              "address": {
+                "street": "682 Trần Hưng Đạo",
+                "ward": "Phường 2",
+                "district": "Quận 5",
+                "state": "Hồ Chí Minh",
+                "country": "Việt Nam",
+                "full_address": "682 Trần Hưng Đạo, Phường 2, Quận 5, Hồ Chí Minh, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "http://rewards.thecoffeehouse.com/wp-content/uploads/comingsoon-1.jpg"
+              ],
+              "latitude": "10.754752000",
+              "longitude": "106.678514000"
+            }
+          ]
+        },
+        {
+          "id": 42,
+          "name": "Quận 6",
+          "count": 3,
+          "state_name": "Hồ Chí Minh",
+          "stores": [
+            {
+              "id": 120,
+              "name": "111-113 Bình Phú",
+              "distance": "",
+              "address": {
+                "street": "111-113 Bình Phú",
+                "ward": "Phường 11",
+                "district": "Quận 6",
+                "state": "Hồ Chí Minh",
+                "country": "Việt Nam",
+                "full_address": "111-113 Bình Phú, Phường 11, Quận 6, Hồ Chí Minh, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/NfAU1BWlJncnty2UT0HlSrhgSfu7G5gaulW0WLlB.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/DildRu4tPDAd3geWF95rMAcgKNATPTekVm4ELlqi.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/qoxnffySojxn5dR5HoKlvyQGSeqnewTeJKNQKb71.jpeg"
+              ],
+              "latitude": "10.743525000",
+              "longitude": "106.630320000"
+            },
+            {
+              "id": 71,
+              "name": "178 Hậu Giang",
+              "distance": "",
+              "address": {
+                "street": "178 Hậu Giang",
+                "ward": "Phường 6",
+                "district": "Quận 6",
+                "state": "Hồ Chí Minh",
+                "country": "Việt Nam",
+                "full_address": "178 Hậu Giang, Phường 6, Quận 6, Hồ Chí Minh, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/4mDBA5aI7BnAmEHRxEfmzBS6rSqH9T5EARgWSVT8.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/ubwCyNtUVZOps9hJNIOpbpRTbrFLUQtyBtlYLPYp.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/iEMHe0K5D4JbB1N6r4ejSIYBXqLGbshZDlkAyYjS.jpeg"
+              ],
+              "latitude": "10.750304000",
+              "longitude": "106.643576000"
+            },
+            {
+              "id": 115,
+              "name": "1056 Hậu Giang",
+              "distance": "",
+              "address": {
+                "street": "1056 Hậu Giang",
+                "ward": "Phường 12",
+                "district": "Quận 6",
+                "state": "Hồ Chí Minh",
+                "country": "Việt Nam",
+                "full_address": "1056 Hậu Giang, Phường 12, Quận 6, Hồ Chí Minh, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/TytsJpx3NobyTP8ACUtTeqdk6y8ZpW05CzpPRXtV.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/piyGUdBc2E6by80oeCO5m4EiemxSN7co16gadzbx.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/uo94sbprfo1W8863MFQc1oIDzVWbK5HtsLeByQkm.jpeg"
+              ],
+              "latitude": "10.745787000",
+              "longitude": "106.625096000"
+            }
+          ]
+        },
+        {
+          "id": 45,
+          "name": "Quận 7",
+          "count": 5,
+          "state_name": "Hồ Chí Minh",
+          "stores": [
+            {
+              "id": 524,
+              "name": "58 Lâm Văn Bền",
+              "distance": "",
+              "address": {
+                "street": "58 Lâm Văn Bền",
+                "ward": "Tân Thuận Tây",
+                "district": "Quận 7",
+                "state": "Hồ Chí Minh",
+                "country": "Việt Nam",
+                "full_address": "58 Lâm Văn Bền, Tân Thuận Tây, Quận 7, Hồ Chí Minh, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://s3-ap-southeast-1.amazonaws.com/tch-mkt-digital-cms/The+Coffee+House/Stores/NSO+Lam+Van+Ben+Q7.jpg"
+              ],
+              "latitude": "10.750263600",
+              "longitude": "106.713666100"
+            },
+            {
+              "id": 488,
+              "name": "492 Nguyễn Thị Thập",
+              "distance": "",
+              "address": {
+                "street": "492 Nguyễn Thị Thập",
+                "ward": "Phường Tân Quy",
+                "district": "Quận 7",
+                "state": "Hồ Chí Minh",
+                "country": "Việt Nam",
+                "full_address": "492 Nguyễn Thị Thập, Phường Tân Quy, Quận 7, Hồ Chí Minh, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/5b46b2d6fbc686139f4d1bf3_nguy%E1%BB%85n%20th%E1%BB%8B%20th%E1%BA%ADp%202.jpg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/SlInY8sSdzh6g6ZKG9eO0dyq549Mow4qLmHc4Hc8.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/6VCtyx0JW5fdzJHNgCsaL1GLT8RlDQ8aA3E3juwT.jpeg"
+              ],
+              "latitude": "10.739758000",
+              "longitude": "106.705378000"
+            },
+            {
+              "id": 20,
+              "name": "313 Nguyễn Thị Thập",
+              "distance": "",
+              "address": {
+                "street": "313 Nguyễn Thị Thập",
+                "ward": "Phường Tân Phú",
+                "district": "Quận 7",
+                "state": "Hồ Chí Minh",
+                "country": "Việt Nam",
+                "full_address": "313 Nguyễn Thị Thập, Phường Tân Phú, Quận 7, Hồ Chí Minh, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/j2tGCQULipmgPWStKaLXbiynLeXW6w7RtDel3gaQ.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/DrQ7g5SceJZ0jr0VH0vkvdSUuIt51Qm9LiFbmo4x.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/9tqYc7oj6NpEJFwSz2D82eFwC5GQL5DfGNAdwbGG.jpeg"
+              ],
+              "latitude": "10.738242800",
+              "longitude": "106.713102600"
+            },
+            {
+              "id": 170,
+              "name": "400A Huỳnh Tấn Phát",
+              "distance": "",
+              "address": {
+                "street": "400A Huỳnh Tấn Phát",
+                "ward": "Phường Bình Thuận",
+                "district": "Quận 7",
+                "state": "Hồ Chí Minh",
+                "country": "Việt Nam",
+                "full_address": "400A Huỳnh Tấn Phát, Phường Bình Thuận, Quận 7, Hồ Chí Minh, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/YK186kYuJbGvzYxoa0JCS8tWcp0IlvpN9P3Wmeqm.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/iCzGVDqq5pFXh6f8tBYCrvSN55WsUrs3BLi3DH4m.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/Hoz09Id7AvyD8iVAKY5wgCUAL00uxEvJWg9UBOmW.jpeg"
+              ],
+              "latitude": "10.746808000",
+              "longitude": "106.728837000"
+            },
+            {
+              "id": 1163,
+              "name": "VNG Campus",
+              "distance": "",
+              "address": {
+                "street": "VNG Campus",
+                "ward": "Tân Thuận Đông",
+                "district": "Quận 7",
+                "state": "Hồ Chí Minh",
+                "country": "Việt Nam",
+                "full_address": "VNG Campus, Tân Thuận Đông, Quận 7, Hồ Chí Minh, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/5d9c45a445de4716d451b4b2_photo_2019-10-15%2011.33.14.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/5d9c45a445de4716d451b4b2_photo_2019-10-15%2011.33.10.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/5d9c45a445de4716d451b4b2_photo_2019-10-15%2011.33.04.jpeg"
+              ],
+              "latitude": "10.758229200",
+              "longitude": "106.743626400"
+            }
+          ]
+        },
+        {
+          "id": 30,
+          "name": "Quận 9",
+          "count": 2,
+          "state_name": "Hồ Chí Minh",
+          "stores": [
+            {
+              "id": 503,
+              "name": "359 Đỗ Xuân Hợp",
+              "distance": "",
+              "address": {
+                "street": "359 Đỗ Xuân Hợp",
+                "ward": "Phường Phước Long B",
+                "district": "Quận 9",
+                "state": "Hồ Chí Minh",
+                "country": "Việt Nam",
+                "full_address": "359 Đỗ Xuân Hợp, Phường Phước Long B, Quận 9, Hồ Chí Minh, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/Kd8PVAyM4Q2FloTDOAe4ufqUBj5InDIuUwpEkX5G.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/PsF4vpAIUS4UoQjhVdsEOfI9HtEgQCJz1KF5IGfj.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/eS8NZrdZM1e3lkRumzD8XaTjTt0zymu8ukmvC1hQ.jpeg"
+              ],
+              "latitude": "10.820911000",
+              "longitude": "106.772414000"
+            },
+            {
+              "id": 542,
+              "name": "Lô T2-1.2, Đường D1",
+              "distance": "",
+              "address": {
+                "street": "Lô T2-1.2, Đường D1",
+                "ward": "Khu Công Nghệ Cao",
+                "district": "Quận 9",
+                "state": "Hồ Chí Minh",
+                "country": "Việt Nam",
+                "full_address": "Lô T2-1.2, Đường D1, Khu Công Nghệ Cao, Quận 9, Hồ Chí Minh, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/5c0de0e81acd4d35f4394c84_Lo%E2%95%A0%C3%A9%20T2-1.2%2C%20%E2%94%80%C3%89u%E2%95%A0%C2%A2o%E2%95%A0%C2%A2%E2%95%A0%C3%87ng%20D1.jpg"
+              ],
+              "latitude": "10.851834500",
+              "longitude": "106.797115600"
+            }
+          ]
+        },
+        {
+          "id": 44,
+          "name": "Quận Bình Tân",
+          "count": 1,
+          "state_name": "Hồ Chí Minh",
+          "stores": [
+            {
+              "id": 381,
+              "name": "19 - 21 Đường 22",
+              "distance": "",
+              "address": {
+                "street": "19 - 21 Đường 22",
+                "ward": "P.Bình Trị Đông B",
+                "district": "Quận Bình Tân",
+                "state": "Hồ Chí Minh",
+                "country": "Việt Nam",
+                "full_address": "19 - 21 Đường 22, P.Bình Trị Đông B, Quận Bình Tân, Hồ Chí Minh, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/5g2VrEBr2UtYV2h3jP9LKOz1lbSIAyQMwokflLKs.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/IDbXWnuDo9PKYD9QnZgVXUBwOIkK5EPvcA2a5jDZ.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/CPU5xEWWb2aO9l3jAa50ud99tmSl0LeD3aHIaeRS.jpeg"
+              ],
+              "latitude": "10.751915800",
+              "longitude": "106.612714100"
+            }
+          ]
+        },
+        {
+          "id": 32,
+          "name": "Quận Bình Thạnh",
+          "count": 10,
+          "state_name": "Hồ Chí Minh",
+          "stores": [
+            {
+              "id": 1160,
+              "name": "190B1 Phan Văn Trị",
+              "distance": "",
+              "address": {
+                "street": "190B1 Phan Văn Trị",
+                "ward": "Phường 12",
+                "district": "Quận Bình Thạnh",
+                "state": "Hồ Chí Minh",
+                "country": "Việt Nam",
+                "full_address": "190B1 Phan Văn Trị, Phường 12, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/5d1973b0696fb3411e5ad776_IMAGE%202019-07-22%2010%3A19%3A13.jpg"
+              ],
+              "latitude": "10.813134700",
+              "longitude": "106.695399000"
+            },
+            {
+              "id": 36,
+              "name": "14 Ngô Tất Tố",
+              "distance": "",
+              "address": {
+                "street": "14 Ngô Tất Tố",
+                "ward": "Phường 19",
+                "district": "Quận Bình Thạnh",
+                "state": "Hồ Chí Minh",
+                "country": "Việt Nam",
+                "full_address": "14 Ngô Tất Tố, Phường 19, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/KKvTE6M0uDInRfTeSJr6L4cYwxoxOub2ZpalYdiy.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/ynjzVbWTErleb8B3mCmaDCLluC8k3Q2IeJ2F7k4B.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/lOIG7GjIqkrVHPdryUEzsCTafzkyJiPJSy0FlbXj.jpeg"
+              ],
+              "latitude": "10.793107000",
+              "longitude": "106.709944000"
+            },
+            {
+              "id": 31,
+              "name": "197 Xô Viết Nghệ Tĩnh",
+              "distance": "",
+              "address": {
+                "street": "197 Xô Viết Nghệ Tĩnh",
+                "ward": "Phường 17",
+                "district": "Quận Bình Thạnh",
+                "state": "Hồ Chí Minh",
+                "country": "Việt Nam",
+                "full_address": "197 Xô Viết Nghệ Tĩnh, Phường 17, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/T4o2gGwHuGzywckrLGRIefq07lHgPhencxaA91H5.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/DFZYcbfIulkUBnIxnfl1brohvsZdxJinBplxLgNm.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/I0LFznPZWGoFXRdplEhka4aefnQB8FpAsB0t0eLc.jpeg"
+              ],
+              "latitude": "10.799585000",
+              "longitude": "106.710982000"
+            },
+            {
+              "id": 121,
+              "name": "157 Đường D2",
+              "distance": "",
+              "address": {
+                "street": "157 Đường D2",
+                "ward": "Phường 25",
+                "district": "Quận Bình Thạnh",
+                "state": "Hồ Chí Minh",
+                "country": "Việt Nam",
+                "full_address": "157 Đường D2, Phường 25, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/gyZxgUbDQAJprtGuoZtZxNVJEX8HHX8gKjpadr1g.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/rvBAGTRalZAvT2MYdDozXaPbLYLLVDJ3SsyDktGM.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/JLgyULr7LeVNsxHBcrIuhRWxmUXwmzaXm8XmT1fd.jpeg"
+              ],
+              "latitude": "10.805255800",
+              "longitude": "106.715751400"
+            },
+            {
+              "id": 19,
+              "name": "469 Điện Biên Phủ",
+              "distance": "",
+              "address": {
+                "street": "469 Điện Biên Phủ",
+                "ward": "Phường 25",
+                "district": "Quận Bình Thạnh",
+                "state": "Hồ Chí Minh",
+                "country": "Việt Nam",
+                "full_address": "469 Điện Biên Phủ, Phường 25, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/eSHnqwC4MynPGCH1NrxBxLeM50xLFh82KlNQgBaK.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/rf9RovFFW1cB7gs7LpG2Iijl3H88np7IfMd7rUUp.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/I36Rk6ikV9KfuZNROYAzthnJzLabxiIxm4hlkvPu.jpeg"
+              ],
+              "latitude": "10.801503000",
+              "longitude": "106.714002000"
+            },
+            {
+              "id": 105,
+              "name": "270 Bùi Hữu Nghĩa",
+              "distance": "",
+              "address": {
+                "street": "270 Bùi Hữu Nghĩa",
+                "ward": "Phường 1",
+                "district": "Quận Bình Thạnh",
+                "state": "Hồ Chí Minh",
+                "country": "Việt Nam",
+                "full_address": "270 Bùi Hữu Nghĩa, Phường 1, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/EwtPdmwl3aQS39UoFIJH3dL0LOD6DA7HNXWa8GAO.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/77wvVQSaUSP9jBTdIwXfKEHAOqmLLoWp7k1pwsvA.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/1gZGmDcnLE8Ch9yHlUjOHsLLucHeM7P6AnGdCO00.jpeg"
+              ],
+              "latitude": "10.798994000",
+              "longitude": "106.699508000"
+            },
+            {
+              "id": 33,
+              "name": "8 Hoàng Hoa Thám",
+              "distance": "",
+              "address": {
+                "street": "8 Hoàng Hoa Thám",
+                "ward": "Phường 7",
+                "district": "Quận Bình Thạnh",
+                "state": "Hồ Chí Minh",
+                "country": "Việt Nam",
+                "full_address": "8 Hoàng Hoa Thám, Phường 7, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/FhIVcWZ7sjSRNAq4Rk1jFgmUdnIq07cpy375bDpq.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/GrN3LL0ce3NDZxoaSh7QKDDehRD2UmMKqIU5VfHD.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/rMsD1HdJyjSxz29qsOsYlOr1AxFQI4ZgJCGmR8vL.jpeg"
+              ],
+              "latitude": "10.804513000",
+              "longitude": "106.691872000"
+            },
+            {
+              "id": 193,
+              "name": "355A Lê Quang Định",
+              "distance": "",
+              "address": {
+                "street": "355A Lê Quang Định",
+                "ward": "Phường 5",
+                "district": "Quận Bình Thạnh",
+                "state": "Hồ Chí Minh",
+                "country": "Việt Nam",
+                "full_address": "355A Lê Quang Định, Phường 5, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/ECFL6pFkl7oAbCjtyg3hS4WTWl8y6fO6xoM2ZnNw.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/MyAzBd8mMY4ocy230cpYcPy7CgPLLJv4qBvTueOK.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/GUYJVkw4ysNNUd8b9C6zCl3s0IS2Db1t13EsaNof.jpeg"
+              ],
+              "latitude": "10.812216000",
+              "longitude": "106.690267000"
+            },
+            {
+              "id": 1153,
+              "name": "75 Đường D1",
+              "distance": "",
+              "address": {
+                "street": "75 Đường D1",
+                "ward": "Phường 25",
+                "district": "Quận Bình Thạnh",
+                "state": "Hồ Chí Minh",
+                "country": "Việt Nam",
+                "full_address": "75 Đường D1, Phường 25, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "http://rewards.thecoffeehouse.com/wp-content/uploads/comingsoon-1.jpg"
+              ],
+              "latitude": "10.802128300",
+              "longitude": "106.718369800"
+            },
+            {
+              "id": 517,
+              "name": "184 Nguyễn Xí",
+              "distance": "",
+              "address": {
+                "street": "184 Nguyễn Xí",
+                "ward": "Phường 26",
+                "district": "Quận Bình Thạnh",
+                "state": "Hồ Chí Minh",
+                "country": "Việt Nam",
+                "full_address": "184 Nguyễn Xí, Phường 26, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/5b99ec9cfbc68671c15d82a4_IMAGE%202019-07-22%2010%3A18%3A54.jpg"
+              ],
+              "latitude": "10.815262200",
+              "longitude": "106.707477500"
+            }
+          ]
+        },
+        {
+          "id": 31,
+          "name": "Quận Gò Vấp",
+          "count": 10,
+          "state_name": "Hồ Chí Minh",
+          "stores": [
+            {
+              "id": 428,
+              "name": "229 Nguyễn Oanh",
+              "distance": "",
+              "address": {
+                "street": "229 Nguyễn Oanh",
+                "ward": "Phường 17",
+                "district": "Quận Gò Vấp",
+                "state": "Hồ Chí Minh",
+                "country": "Việt Nam",
+                "full_address": "229 Nguyễn Oanh, Phường 17, Quận Gò Vấp, Hồ Chí Minh, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/BwxDwNqbcPtIOmroc91GALC4M3pIrZItycxg83wg.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/tKflYNNAzWIqAAZvoN9NlpIugD8iOf5IXeCYkRrv.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/WXbtO3TOlFGcHI9zIkXtAROuJk1lRlJoXpfahkeV.jpeg"
+              ],
+              "latitude": "10.840336000",
+              "longitude": "106.675926000"
+            },
+            {
+              "id": 26,
+              "name": "41 Nguyễn Thái Sơn",
+              "distance": "",
+              "address": {
+                "street": "41 Nguyễn Thái Sơn",
+                "ward": "Phường 4",
+                "district": "Quận Gò Vấp",
+                "state": "Hồ Chí Minh",
+                "country": "Việt Nam",
+                "full_address": "41 Nguyễn Thái Sơn, Phường 4, Quận Gò Vấp, Hồ Chí Minh, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/kqCGADGHlWiyE6we236aD25zR803syhQe5pIgxii.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/xebsoCtc7t7LJtEhmBoWywiCwiqf4cJd1mpItbMR.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/1vZCcMwaQ9mFjniLOgoAW1RORAdV6x3FgWN8iEUs.jpeg"
+              ],
+              "latitude": "10.821475000",
+              "longitude": "106.684183000"
+            },
+            {
+              "id": 44,
+              "name": "258 Nguyễn Văn Lượng",
+              "distance": "",
+              "address": {
+                "street": "258 Nguyễn Văn Lượng",
+                "ward": "Phường 17",
+                "district": "Quận Gò Vấp",
+                "state": "Hồ Chí Minh",
+                "country": "Việt Nam",
+                "full_address": "258 Nguyễn Văn Lượng, Phường 17, Quận Gò Vấp, Hồ Chí Minh, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/pWTjRHZgu5ZcFQcI64DOicR1MQcjFfepyDl6CLMK.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/LtMYUWoBMhT0OGQ7xuuhII1eBgOpVYKukDwczYYO.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/Y43XuxzYCcB2J6ZUuvXLQfyj19FW6FaP0icIB03p.jpeg"
+              ],
+              "latitude": "10.838814000",
+              "longitude": "106.671380000"
+            },
+            {
+              "id": 537,
+              "name": "240 Phạm Văn Chiêu",
+              "distance": "",
+              "address": {
+                "street": "240 Phạm Văn Chiêu",
+                "ward": "Phường 9",
+                "district": "Quận Gò Vấp",
+                "state": "Hồ Chí Minh",
+                "country": "Việt Nam",
+                "full_address": "240 Phạm Văn Chiêu, Phường 9, Quận Gò Vấp, Hồ Chí Minh, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/5bfe084efbc6865eac59c988_TCH_PhamVanChieu.jpeg"
+              ],
+              "latitude": "10.848267900",
+              "longitude": "106.646868100"
+            },
+            {
+              "id": 397,
+              "name": "403 Phan Huy Ích",
+              "distance": "",
+              "address": {
+                "street": "403 Phan Huy Ích",
+                "ward": "Phường 14",
+                "district": "Quận Gò Vấp",
+                "state": "Hồ Chí Minh",
+                "country": "Việt Nam",
+                "full_address": "403 Phan Huy Ích, Phường 14, Quận Gò Vấp, Hồ Chí Minh, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/mEMO8YNq6PH5Yc5FVjudkODRxEWSgbl5Xf85ADzZ.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/rwgmwFQobVyPrFCl07wE9P3HiYB7V0klyEQYijcl.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/aeE88NPoc3my1fYC8QDZbKAimj9I45t1bm7zDqGL.jpeg"
+              ],
+              "latitude": "10.844017000",
+              "longitude": "106.639799000"
+            },
+            {
+              "id": 99,
+              "name": "771 Phan Văn Trị",
+              "distance": "",
+              "address": {
+                "street": "771 Phan Văn Trị",
+                "ward": "Phường 7",
+                "district": "Quận Gò Vấp",
+                "state": "Hồ Chí Minh",
+                "country": "Việt Nam",
+                "full_address": "771 Phan Văn Trị, Phường 7, Quận Gò Vấp, Hồ Chí Minh, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/rPQDhxy9T1ODfpTdu8qoEWCD1MIFF5OgY68ZMvSf.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/I4WD43caiHwVnhQXtlka24QYc3bKnhqfJoh5qCau.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/TV0Cd2qtZZMgZ6FPVw1xkKEqZJhn1aatiagGvCo4.jpeg"
+              ],
+              "latitude": "10.828194000",
+              "longitude": "106.685314000"
+            },
+            {
+              "id": 6,
+              "name": "293 Quang Trung",
+              "distance": "",
+              "address": {
+                "street": "293 Quang Trung",
+                "ward": "Phường 10",
+                "district": "Quận Gò Vấp",
+                "state": "Hồ Chí Minh",
+                "country": "Việt Nam",
+                "full_address": "293 Quang Trung, Phường 10, Quận Gò Vấp, Hồ Chí Minh, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/yp6EN3IvoGeHY8J6FmoIdIjjLrSETaS8co5328qG.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/SE1P0dpETfwdeY5SyvrL4Ka7O8A0GClZRIalDIAB.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/FbeY1Smf3KGQdJRnChMz5eMlUZY2K81U5tjU3bmE.jpeg"
+              ],
+              "latitude": "10.829091000",
+              "longitude": "106.672053000"
+            },
+            {
+              "id": 274,
+              "name": "355 Thống Nhất",
+              "distance": "",
+              "address": {
+                "street": "355 Thống Nhất",
+                "ward": "Phường 11",
+                "district": "Quận Gò Vấp",
+                "state": "Hồ Chí Minh",
+                "country": "Việt Nam",
+                "full_address": "355 Thống Nhất, Phường 11, Quận Gò Vấp, Hồ Chí Minh, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/2M4NOtxx6Bmp439ry9vHCGc7fdlx7l089nKDtAb1.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/Sp0uMddKb8AunHSgAohJpTRm7cKTI5rRSd3yFSei.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/OLNjQzHzA54MD7C4LeC4rYgtS9MgXt2aiwUxjJ1y.jpeg"
+              ],
+              "latitude": "10.841511000",
+              "longitude": "106.664689000"
+            },
+            {
+              "id": 42,
+              "name": "371 Nguyễn Kiệm",
+              "distance": "",
+              "address": {
+                "street": "371 Nguyễn Kiệm",
+                "ward": "Phường 3",
+                "district": "Quận Gò Vấp",
+                "state": "Hồ Chí Minh",
+                "country": "Việt Nam",
+                "full_address": "371 Nguyễn Kiệm, Phường 3, Quận Gò Vấp, Hồ Chí Minh, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/2jSTPO1ZhIBbFSQyVwHOnKwiBSxJvwNBeOpEi221.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/c9wrCXZh8TpmgbrLySE1FBMewNLuxSoEmdnYrB0Q.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/r9CjMvr8jdNWEku5dCBqrcFij1OzZk2WnORshdhp.jpeg"
+              ],
+              "latitude": "10.816785000",
+              "longitude": "106.677107000"
+            },
+            {
+              "id": 514,
+              "name": "487 Phan Văn Trị",
+              "distance": "",
+              "address": {
+                "street": "487 Phan Văn Trị",
+                "ward": "Phường 5",
+                "district": "Quận Gò Vấp",
+                "state": "Hồ Chí Minh",
+                "country": "Việt Nam",
+                "full_address": "487 Phan Văn Trị, Phường 5, Quận Gò Vấp, Hồ Chí Minh, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/5bf373e4fbc686250c46510b_IMAGE%202019-08-13%2011%3A35%3A34.jpg"
+              ],
+              "latitude": "10.823397200",
+              "longitude": "106.692028000"
+            }
+          ]
+        },
+        {
+          "id": 35,
+          "name": "Quận Phú Nhuận",
+          "count": 5,
+          "state_name": "Hồ Chí Minh",
+          "stores": [
+            {
+              "id": 2,
+              "name": "43 Hoa Hồng",
+              "distance": "",
+              "address": {
+                "street": "43 Hoa Hồng",
+                "ward": "Phường 2",
+                "district": "Quận Phú Nhuận",
+                "state": "Hồ Chí Minh",
+                "country": "Việt Nam",
+                "full_address": "43 Hoa Hồng, Phường 2, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/NdESAPANSgCwTt2JNZueE7oUlJk4lTMTonT3pVSR.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/PtdKltEAeweuvZE9oXNNXlMG9xAYb5mhE2b3jaHo.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/321UauDvLrAZsrKR5q3M3LbahWM1WoEMfnqQPxn7.jpeg"
+              ],
+              "latitude": "10.796429000",
+              "longitude": "106.690869000"
+            },
+            {
+              "id": 526,
+              "name": "1 Hoa Sứ",
+              "distance": "",
+              "address": {
+                "street": "1 Hoa Sứ",
+                "ward": "phường 7",
+                "district": "Quận Phú Nhuận",
+                "state": "Hồ Chí Minh",
+                "country": "Việt Nam",
+                "full_address": "1 Hoa Sứ, phường 7, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/5bc6aa23fbc686224a6726fb_TCH%20HCM%20So%E2%95%A0%C3%A9%E2%95%A0%C3%BC%201%20Hoa%20Su%E2%95%A0%C2%A2%E2%95%A0%C3%BC.jpg"
+              ],
+              "latitude": "10.798950100",
+              "longitude": "106.687435900"
+            },
+            {
+              "id": 48,
+              "name": "68 Huỳnh Văn Bánh",
+              "distance": "",
+              "address": {
+                "street": "68 Huỳnh Văn Bánh",
+                "ward": "Phường 15 ",
+                "district": "Quận Phú Nhuận",
+                "state": "Hồ Chí Minh",
+                "country": "Việt Nam",
+                "full_address": "68 Huỳnh Văn Bánh, Phường 15 , Quận Phú Nhuận, Hồ Chí Minh, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/MhsCFJgF6Xr6uYTWrntKDyXNNx0ZTC4Nolh3rRvu.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/XaL3b7L9ua6sk9uO9X9T8EiQ70THheicUDR8lLGq.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/zzq02yBm6WRbe2kD6riN22WmpRmuWMqPeBmHF0Yr.jpeg"
+              ],
+              "latitude": "10.794424000",
+              "longitude": "106.680929000"
+            },
+            {
+              "id": 225,
+              "name": "141 Phan Đăng Lưu",
+              "distance": "",
+              "address": {
+                "street": "141 Phan Đăng Lưu",
+                "ward": "Phường 2",
+                "district": "Quận Phú Nhuận",
+                "state": "Hồ Chí Minh",
+                "country": "Việt Nam",
+                "full_address": "141 Phan Đăng Lưu, Phường 2, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/5b21f8cc1acd4d020326691d_TCH%20HCM%20141%20Phan%20%E2%94%80%C3%89a%E2%95%A0%C3%A5ng%20Lu%E2%95%A0%C2%A2u.jpg",
+                "http://news.thecoffeehouse.com/wp-content/uploads/pdl-2.jpg",
+                "http://news.thecoffeehouse.com/wp-content/uploads/pdl-3.jpg"
+              ],
+              "latitude": "10.802450000",
+              "longitude": "106.683900000"
+            },
+            {
+              "id": 94,
+              "name": "185 Trần Huy Liệu",
+              "distance": "",
+              "address": {
+                "street": "185 Trần Huy Liệu",
+                "ward": "phường 4",
+                "district": "Quận Phú Nhuận",
+                "state": "Hồ Chí Minh",
+                "country": "Việt Nam",
+                "full_address": "185 Trần Huy Liệu, phường 4, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/Lxju06YM2t0UilzteFn3PILoOB9q0cAdupoq5h7x.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/D8ndm1OZtEh337f9Zmf21LWzVBkX58XvkxqwnbjK.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/F6My9NhznSl1dQZbNOf78vdLtknK9yfhs0eOGGYZ.jpeg"
+              ],
+              "latitude": "10.797318000",
+              "longitude": "106.677516000"
+            }
+          ]
+        },
+        {
+          "id": 33,
+          "name": "Quận Tân Bình",
+          "count": 12,
+          "state_name": "Hồ Chí Minh",
+          "stores": [
+            {
+              "id": 218,
+              "name": "4-6 Ấp Bắc",
+              "distance": "",
+              "address": {
+                "street": "4-6 Ấp Bắc",
+                "ward": "Phường 13",
+                "district": "Quận Tân Bình",
+                "state": "Hồ Chí Minh",
+                "country": "Việt Nam",
+                "full_address": "4-6 Ấp Bắc, Phường 13, Quận Tân Bình, Hồ Chí Minh, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/3aDNZ8NTQHK5ePs6MwayzfbuWmqvYjxlnNepyFlS.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/lEJYn8LTPS5QFxJAJZ5I8emzEuiaJZTUgxCmjBFN.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/05lFFkPKteirHimbE52X9du6Ci3pcFzt12qrg6ZJ.jpeg"
+              ],
+              "latitude": "10.800570000",
+              "longitude": "106.641502000"
+            },
+            {
+              "id": 41,
+              "name": "132 Hoàng Hoa Thám",
+              "distance": "",
+              "address": {
+                "street": "132 Hoàng Hoa Thám",
+                "ward": "Phường 12",
+                "district": "Quận Tân Bình",
+                "state": "Hồ Chí Minh",
+                "country": "Việt Nam",
+                "full_address": "132 Hoàng Hoa Thám, Phường 12, Quận Tân Bình, Hồ Chí Minh, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/Vc2joEqf9yvOnxvhbD7PwGG78GoJNcqBoyJQ4huL.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/O53xIn5o8RbKwJxZRnInzoxf9brMSQ9RysiZHXr5.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/QmK4tkdYsJIKFirLjtF97GZeENO02TS8jC6JWcDj.jpeg"
+              ],
+              "latitude": "10.800882000",
+              "longitude": "106.647521000"
+            },
+            {
+              "id": 4,
+              "name": "17 Út Tịch",
+              "distance": "",
+              "address": {
+                "street": "17 Út Tịch",
+                "ward": "Phường 4",
+                "district": "Quận Tân Bình",
+                "state": "Hồ Chí Minh",
+                "country": "Việt Nam",
+                "full_address": "17 Út Tịch, Phường 4, Quận Tân Bình, Hồ Chí Minh, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/J76kffFGll5l54OCBCVFTTKteG4J6oeP1NQ2DYff.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/kTAOgB00tf8addwlMKFHVpz2tCBrTGlngP2BFtuL.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/mqXCLNh6X18t8nXoLxeOfHyovnQdeEQBVYwrqU3Q.jpeg"
+              ],
+              "latitude": "10.796347000",
+              "longitude": "106.658738000"
+            },
+            {
+              "id": 521,
+              "name": "291 Hồng Lạc",
+              "distance": "",
+              "address": {
+                "street": "291 Hồng Lạc",
+                "ward": "Phường 10",
+                "district": "Quận Tân Bình",
+                "state": "Hồ Chí Minh",
+                "country": "Việt Nam",
+                "full_address": "291 Hồng Lạc, Phường 10, Quận Tân Bình, Hồ Chí Minh, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://s3-ap-southeast-1.amazonaws.com/tch-mkt-digital-cms/The+Coffee+House/Stores/NSO+H%E1%BB%93ng+L%E1%BA%A1c+app.jpg"
+              ],
+              "latitude": "10.786260300",
+              "longitude": "106.649204500"
+            },
+            {
+              "id": 98,
+              "name": "559 Trường Chinh",
+              "distance": "",
+              "address": {
+                "street": "559 Trường Chinh",
+                "ward": "Phường 14",
+                "district": "Quận Tân Bình",
+                "state": "Hồ Chí Minh",
+                "country": "Việt Nam",
+                "full_address": "559 Trường Chinh, Phường 14, Quận Tân Bình, Hồ Chí Minh, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/uzOvqE4iUXZEWQwp0iBOSJwyHWt035AWnukF0xDr.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/BNKsQUAYnCLvGb8TNkLdlQH6JqO4BFaPldnfoOhu.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/1qCc015It8Kd8TpMmtlRyzlxykMH1CV00Ey7A6tr.jpeg"
+              ],
+              "latitude": "10.802191200",
+              "longitude": "106.634302600"
+            },
+            {
+              "id": 17,
+              "name": "112 Bàu Cát",
+              "distance": "",
+              "address": {
+                "street": "112 Bàu Cát",
+                "ward": "Phường 14",
+                "district": "Quận Tân Bình",
+                "state": "Hồ Chí Minh",
+                "country": "Việt Nam",
+                "full_address": "112 Bàu Cát, Phường 14, Quận Tân Bình, Hồ Chí Minh, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/qYZvSPL2q9wS3ghDcZbf4fai1NmVzJhlesGVUFr9.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/G4cBWer6pGVayhOOIjYBzYLlh5yNngdXqz1nlzzG.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/DXtGmA8VMRpuHQDDUekcpMVOGf0bGedeOPWtQ7Ag.jpeg"
+              ],
+              "latitude": "10.792219000",
+              "longitude": "106.642627000"
+            },
+            {
+              "id": 3,
+              "name": "281 Lê Văn Sỹ",
+              "distance": "",
+              "address": {
+                "street": "281 Lê Văn Sỹ",
+                "ward": "Phường 14",
+                "district": "Quận Tân Bình",
+                "state": "Hồ Chí Minh",
+                "country": "Việt Nam",
+                "full_address": "281 Lê Văn Sỹ, Phường 14, Quận Tân Bình, Hồ Chí Minh, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/c1tWU0PcvfdMH19CPJNCwnmFXUnjayapEiC0aQ2Y.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/xvDjSLIqSG27wWeW57EsfC6j2al3fiDFbkhgHF8B.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/QfBS3CojZ95zPigkf9wPLONzazsXZmcwvi2WqEPX.jpeg"
+              ],
+              "latitude": "10.794411000",
+              "longitude": "106.668022000"
+            },
+            {
+              "id": 40,
+              "name": "2 Đống Đa",
+              "distance": "",
+              "address": {
+                "street": "2 Đống Đa",
+                "ward": "Phường 2",
+                "district": "Quận Tân Bình",
+                "state": "Hồ Chí Minh",
+                "country": "Việt Nam",
+                "full_address": "2 Đống Đa, Phường 2, Quận Tân Bình, Hồ Chí Minh, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/SUtkxfOPeRMBghLuoBy1goKY0Hwuq8IYTxHmRE15.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/YMytSaCkLhFn946sYlbSZpoSlMwxi8toVtawTZGf.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/tvOhecxGkCF3Ph6LFcjtLBGQUK4y97zMRkjfDMDt.jpeg"
+              ],
+              "latitude": "10.808394000",
+              "longitude": "106.665610000"
+            },
+            {
+              "id": 90,
+              "name": "51 Thăng Long",
+              "distance": "",
+              "address": {
+                "street": "51 Thăng Long",
+                "ward": "Phường 4",
+                "district": "Quận Tân Bình",
+                "state": "Hồ Chí Minh",
+                "country": "Việt Nam",
+                "full_address": "51 Thăng Long, Phường 4, Quận Tân Bình, Hồ Chí Minh, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/npiVhpRSJblQz0nekQGUYweAh73w1zljfVAQIhWx.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/J5G1uPeDiZR2Vcir9yI5naPfZWjuB3LNDnCcCaVZ.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/r8G1Q3R7cd11hVIGfNIL4yNESGHcBLrzukZOjgjK.jpeg"
+              ],
+              "latitude": "10.802952800",
+              "longitude": "106.660451700"
+            },
+            {
+              "id": 58,
+              "name": "18 Hồng Hà",
+              "distance": "",
+              "address": {
+                "street": "18 Hồng Hà",
+                "ward": "Phường 2 ",
+                "district": "Quận Tân Bình",
+                "state": "Hồ Chí Minh",
+                "country": "Việt Nam",
+                "full_address": "18 Hồng Hà, Phường 2 , Quận Tân Bình, Hồ Chí Minh, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/jVL3O6UYbviqzbuIqq80WtIp4MJy88SSLn5nSKqL.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/UxkVfGVKfAHuT43KobmYJgyBqblCuFyUWSMx1q3W.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/Ny6qRbcGcd1fNlDJXDOjQ93zuRlheuGWWkSQXU4u.jpeg"
+              ],
+              "latitude": "10.813243000",
+              "longitude": "106.667071000"
+            },
+            {
+              "id": 104,
+              "name": "45 Trương Công Định",
+              "distance": "",
+              "address": {
+                "street": "45 Trương Công Định",
+                "ward": "Phường 14",
+                "district": "Quận Tân Bình",
+                "state": "Hồ Chí Minh",
+                "country": "Việt Nam",
+                "full_address": "45 Trương Công Định, Phường 14, Quận Tân Bình, Hồ Chí Minh, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/C9Q9wFoTfPKPuRyqEBWtFuZPqWPmj0ihc4l1Q6R4.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/qwl4XjyRiLiTfBX3Cbsqe1RoKrpnLTBn3twWde3x.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/oxCOIaPGnNBApTASyWHvoh38P5pQhkV66DAntKV2.jpeg"
+              ],
+              "latitude": "10.797331000",
+              "longitude": "106.641461000"
+            },
+            {
+              "id": 418,
+              "name": "51 Lê Trung Nghĩa",
+              "distance": "",
+              "address": {
+                "street": "51 Lê Trung Nghĩa",
+                "ward": "Phường 12",
+                "district": "Quận Tân Bình",
+                "state": "Hồ Chí Minh",
+                "country": "Việt Nam",
+                "full_address": "51 Lê Trung Nghĩa, Phường 12, Quận Tân Bình, Hồ Chí Minh, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/3VjgWIdfQP8WDJ8QOwGolN1JYgw8HITEKBiTrr6E.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/9F5XGXD81dLqhumfvm02dA9ZpC6sVCfjxs52allU.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/qxJ1haqKDiJthsTVnnmvlZHKBAnieBAEZcTBlj8r.jpeg"
+              ],
+              "latitude": "10.800469000",
+              "longitude": "106.650897000"
+            }
+          ]
+        },
+        {
+          "id": 34,
+          "name": "Quận Tân Phú",
+          "count": 6,
+          "state_name": "Hồ Chí Minh",
+          "stores": [
+            {
+              "id": 83,
+              "name": "685 Âu Cơ",
+              "distance": "",
+              "address": {
+                "street": "685 Âu Cơ",
+                "ward": "Tân Thành",
+                "district": "Quận Tân Phú",
+                "state": "Hồ Chí Minh",
+                "country": "Việt Nam",
+                "full_address": "685 Âu Cơ, Tân Thành, Quận Tân Phú, Hồ Chí Minh, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/Vxi9mO8Z58fgjujRSbd3Rxizh6ZbDkiMRy6GMKO2.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/obwkp6ahE5W7CvSSYDenq7Ap9bLd8K2tt7r4tY8X.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/QBqpYSlvWXRTgJaXr9DmCp7bEy5wBPrnP1GU6Jbz.jpeg"
+              ],
+              "latitude": "10.789650000",
+              "longitude": "106.639379800"
+            },
+            {
+              "id": 444,
+              "name": "46 Lê Thiệt",
+              "distance": "",
+              "address": {
+                "street": "46 Lê Thiệt",
+                "ward": "Phường Phú Thọ Hòa",
+                "district": "Quận Tân Phú",
+                "state": "Hồ Chí Minh",
+                "country": "Việt Nam",
+                "full_address": "46 Lê Thiệt, Phường Phú Thọ Hòa, Quận Tân Phú, Hồ Chí Minh, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/5b21f8cc1acd4d020326692d_TCH%20HCM%2046%20Le%E2%95%A0%C3%A9%20Thie%E2%95%A0%C3%BA%E2%95%A0%C3%A9t.jpg",
+                "http://rewards.thecoffeehouse.com/wp-content/uploads/lethiethcm_2.jpg",
+                "http://rewards.thecoffeehouse.com/wp-content/uploads/lethiethcm_3.jpg"
+              ],
+              "latitude": "10.785543000",
+              "longitude": "106.622947000"
+            },
+            {
+              "id": 62,
+              "name": "787 Lũy Bán Bích",
+              "distance": "",
+              "address": {
+                "street": "787 Lũy Bán Bích",
+                "ward": "P.Phú Thọ Hòa",
+                "district": "Quận Tân Phú",
+                "state": "Hồ Chí Minh",
+                "country": "Việt Nam",
+                "full_address": "787 Lũy Bán Bích, P.Phú Thọ Hòa, Quận Tân Phú, Hồ Chí Minh, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/04VofZZNudjk4uRj4P0I8KUqRDjZwQ4zEoeApvqw.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/dIAnazJ8UNC6OkcQx85g1Pw5vCTqW2YylvU1DMUB.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/t5mRnZGNewg5FYDfkthQXrw4FajCs2fWAXpx6Qqg.jpeg"
+              ],
+              "latitude": "10.786570000",
+              "longitude": "106.636715000"
+            },
+            {
+              "id": 87,
+              "name": "177 Độc Lập",
+              "distance": "",
+              "address": {
+                "street": "177 Độc Lập",
+                "ward": "Tân Thành",
+                "district": "Quận Tân Phú",
+                "state": "Hồ Chí Minh",
+                "country": "Việt Nam",
+                "full_address": "177 Độc Lập, Tân Thành, Quận Tân Phú, Hồ Chí Minh, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/FZ5pJQ7DQvL0g9Xfau3DLpvOo9E33CJFOx85Kocs.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/I57IadlIkXVGuOlfBPPCh7yjK1A4Jy0y0W1QCNk0.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/1JWmUaz2hF0RIHduggeC452ROFYOQZwbUFarBcRC.jpeg"
+              ],
+              "latitude": "10.792620000",
+              "longitude": "106.629951000"
+            },
+            {
+              "id": 419,
+              "name": "141 Tân Sơn Nhì",
+              "distance": "",
+              "address": {
+                "street": "141 Tân Sơn Nhì",
+                "ward": "Phường Tân Sơn Nhì",
+                "district": "Quận Tân Phú",
+                "state": "Hồ Chí Minh",
+                "country": "Việt Nam",
+                "full_address": "141 Tân Sơn Nhì, Phường Tân Sơn Nhì, Quận Tân Phú, Hồ Chí Minh, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/mQEYc866ofhkYW0PuUKp00WNBHMcDmNSrFOl7wc1.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/URW2BaQalETs5WQJL0lE2mu6BjCKBVeRdTkVbx33.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/9gsgaOBfcfcZfvl5bqG3KjEOJ4NMlwjfGuS1JSI3.jpeg"
+              ],
+              "latitude": "10.800568000",
+              "longitude": "106.633030000"
+            },
+            {
+              "id": 432,
+              "name": "184 Tô Hiệu",
+              "distance": "",
+              "address": {
+                "street": "184 Tô Hiệu",
+                "ward": "Phường Hiệp Tân",
+                "district": "Quận Tân Phú",
+                "state": "Hồ Chí Minh",
+                "country": "Việt Nam",
+                "full_address": "184 Tô Hiệu, Phường Hiệp Tân, Quận Tân Phú, Hồ Chí Minh, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/o6pbIJOnrVVAWD1wPLfOsW9atJYy3p8nWV7T0BQJ.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/IBhjrbfnGPTlUpqE8HCJ7gbPLU8tMGVarbWceZsC.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/XNlZ6q8GXj1KTxPsQhSjO4BOfTAw2GtF70F1f0Gi.jpeg"
+              ],
+              "latitude": "10.773278000",
+              "longitude": "106.627584000"
+            }
+          ]
+        },
+        {
+          "id": 29,
+          "name": "Quận Thủ Đức",
+          "count": 4,
+          "state_name": "Hồ Chí Minh",
+          "stores": [
+            {
+              "id": 270,
+              "name": "201 Đặng Văn Bi",
+              "distance": "",
+              "address": {
+                "street": "201 Đặng Văn Bi",
+                "ward": "Phường Bình Thọ",
+                "district": "Quận Thủ Đức",
+                "state": "Hồ Chí Minh",
+                "country": "Việt Nam",
+                "full_address": "201 Đặng Văn Bi, Phường Bình Thọ, Quận Thủ Đức, Hồ Chí Minh, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/K87jUlP2n0Ec27inm9pKn4hPcdehoGGk4QSHCQrR.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/sncdhjvxxFL7suEIAhnDft4cG7R1XSKTTE1Jlekr.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/UP7zScNPNXRCf7pWahNRPr3GzhVyK1sbGR12fWD0.jpeg"
+              ],
+              "latitude": "10.848561000",
+              "longitude": "106.759263000"
+            },
+            {
+              "id": 437,
+              "name": "66E Hoàng Diệu 2",
+              "distance": "",
+              "address": {
+                "street": "66E Hoàng Diệu 2",
+                "ward": "Phường Linh Chiểu",
+                "district": "Quận Thủ Đức",
+                "state": "Hồ Chí Minh",
+                "country": "Việt Nam",
+                "full_address": "66E Hoàng Diệu 2, Phường Linh Chiểu, Quận Thủ Đức, Hồ Chí Minh, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/PxaBunacXP1uoZAly1j36FFb0kacyOucHg7G3d6p.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/9CNcWUDkEbA4DWOfj1KU5ckMw2tIpoA5lnnZDUGY.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/jSM02UmMfKqFr3JP7GaUZsWePWTSecZHIAmKpjGD.jpeg"
+              ],
+              "latitude": "10.856859000",
+              "longitude": "106.764418000"
+            },
+            {
+              "id": 541,
+              "name": "116 Tô Ngọc Vân",
+              "distance": "",
+              "address": {
+                "street": "116 Tô Ngọc Vân",
+                "ward": "Linh Tây",
+                "district": "Quận Thủ Đức",
+                "state": "Hồ Chí Minh",
+                "country": "Việt Nam",
+                "full_address": "116 Tô Ngọc Vân, Linh Tây, Quận Thủ Đức, Hồ Chí Minh, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/5bfe084efbc6865eac59c98a_TCH%20HCM%20116%20To%E2%95%A0%C3%A9%20Ngo%E2%95%A0%C3%BAc%20Va%E2%95%A0%C3%A9n.jpg"
+              ],
+              "latitude": "10.887603300",
+              "longitude": "106.729522800"
+            },
+            {
+              "id": 15,
+              "name": "114 Võ Văn Ngân",
+              "distance": "",
+              "address": {
+                "street": "114 Võ Văn Ngân",
+                "ward": "Phường Bình Thọ",
+                "district": "Quận Thủ Đức",
+                "state": "Hồ Chí Minh",
+                "country": "Việt Nam",
+                "full_address": "114 Võ Văn Ngân, Phường Bình Thọ, Quận Thủ Đức, Hồ Chí Minh, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/H4p4G9d7ad5zy0UeTmZsToKYs8MF5RJ3Kpc5xdbq.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/EAiORCwGA641lXvyjpIavdSXZU1mP9mrl3t8gv0c.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/YWCrimtJpufk63D3ZVaKq9afi9bNK3YZNV0ZFTlW.jpeg"
+              ],
+              "latitude": "10.850630000",
+              "longitude": "106.764105000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "name": "Bình Dương",
+      "count": 1,
+      "districts": [
+        {
+          "id": 326,
+          "name": "Thành phố Thủ Dầu Một",
+          "count": 1,
+          "state_name": "Bình Dương",
+          "stores": [
+            {
+              "id": 499,
+              "name": "Hikari Bình Dương",
+              "distance": "",
+              "address": {
+                "street": "Hikari Bình Dương",
+                "ward": null,
+                "district": "Thành phố Thủ Dầu Một",
+                "state": "Bình Dương",
+                "country": "Việt Nam",
+                "full_address": "Hikari Bình Dương, , Thành phố Thủ Dầu Một, Bình Dương, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/5b693704fbc68618ad24f8ac_Hikari%20B%C3%ACnh%20D%C6%B0%C6%A1ng.jpg",
+                "https://rewards.thecoffeehouse.com/wp-content/uploads/binhduonghiraki_2.jpg",
+                "https://rewards.thecoffeehouse.com/wp-content/uploads/binhduonghiraki_3.jpg"
+              ],
+              "latitude": "11.058663000",
+              "longitude": "106.683493000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "name": "Bà Rịa Vũng Tàu",
+      "count": 3,
+      "districts": [
+        {
+          "id": 196,
+          "name": "Thành phố Bà Rịa",
+          "count": 1,
+          "state_name": "Bà Rịa Vũng Tàu",
+          "stores": [
+            {
+              "id": 464,
+              "name": "76 Nguyễn Hữu Thọ",
+              "distance": "",
+              "address": {
+                "street": "76 Nguyễn Hữu Thọ",
+                "ward": "Phường Phước Trung",
+                "district": "Thành phố Bà Rịa",
+                "state": "Bà Rịa Vũng Tàu",
+                "country": "Việt Nam",
+                "full_address": "76 Nguyễn Hữu Thọ, Phường Phước Trung, Thành phố Bà Rịa, Bà Rịa Vũng Tàu, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/5b46b2d6fbc686139f4d1bf5_Nguye%E2%95%A0%C3%A9%E2%95%A0%C3%A2n%20Hu%E2%95%A0%C2%A2%E2%95%A0%C3%A2u%20Tho%E2%95%A0%C3%BA%20-%20Ba%E2%95%A0%C3%87%20Ri%E2%95%A0%C3%BAa%20-%20store%20na%E2%95%A0%C3%87y%20cu%E2%95%A0%C3%A2ng%20chu%E2%95%A0%C2%A2a%20co%E2%95%A0%C3%BC%20hi%E2%95%A0%C3%87nh%20nha.jpg",
+                "https://rewards.thecoffeehouse.com/wp-content/uploads/nguyenhuuthobr_2.jpg",
+                "https://rewards.thecoffeehouse.com/wp-content/uploads/nguyenhuuthobr_3.jpg"
+              ],
+              "latitude": "10.491757000",
+              "longitude": "107.173676000"
+            }
+          ]
+        },
+        {
+          "id": 195,
+          "name": "Thành phố Vũng Tàu",
+          "count": 2,
+          "state_name": "Bà Rịa Vũng Tàu",
+          "stores": [
+            {
+              "id": 150,
+              "name": "5 Ba Cu",
+              "distance": "",
+              "address": {
+                "street": "5 Ba Cu",
+                "ward": "Phường 1",
+                "district": "Thành phố Vũng Tàu",
+                "state": "Bà Rịa Vũng Tàu",
+                "country": "Việt Nam",
+                "full_address": "5 Ba Cu, Phường 1, Thành phố Vũng Tàu, Bà Rịa Vũng Tàu, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/Ly9Ts5uL0LZfS0hAsnZaVrYLLQIgAsLAEmmjEEDw.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/kBBVzHYduIH4HsS8bDgrQuJ1PS4ERtni207wECS2.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/ZXiAfcoxfxTCIa25U9f6P5UBYFeXeFdJI8SUPoLY.jpeg"
+              ],
+              "latitude": "10.348242000",
+              "longitude": "107.074153000"
+            },
+            {
+              "id": 518,
+              "name": "177 Lê Hồng Phong",
+              "distance": "",
+              "address": {
+                "street": "177 Lê Hồng Phong",
+                "ward": "Phường 8",
+                "district": "Thành phố Vũng Tàu",
+                "state": "Bà Rịa Vũng Tàu",
+                "country": "Việt Nam",
+                "full_address": "177 Lê Hồng Phong, Phường 8, Thành phố Vũng Tàu, Bà Rịa Vũng Tàu, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/5b99ec9cfbc68671c15d82a5_TCH%20BRU%20177%20Le%E2%95%A0%C3%A9%20Ho%E2%95%A0%C3%A9%E2%95%A0%C3%87ng%20Phong.jpg"
+              ],
+              "latitude": "10.353135600",
+              "longitude": "107.085298600"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "name": "Hà Nội",
+      "count": 31,
+      "districts": [
+        {
+          "id": 95,
+          "name": "Bắc Từ Liêm",
+          "count": 2,
+          "state_name": "Hà Nội",
+          "stores": [
+            {
+              "id": 533,
+              "name": "40 Xuân La",
+              "distance": "",
+              "address": {
+                "street": "40 Xuân La",
+                "ward": null,
+                "district": "Bắc Từ Liêm",
+                "state": "Hà Nội",
+                "country": "Việt Nam",
+                "full_address": "40 Xuân La, , Bắc Từ Liêm, Hà Nội, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/5bda6dcffbc68614df6e1995_IMAGE%202019-08-13%2011%3A37%3A15.jpg"
+              ],
+              "latitude": "21.068416300",
+              "longitude": "105.803051800"
+            },
+            {
+              "id": 1155,
+              "name": "641 Phạm Văn Đồng",
+              "distance": "",
+              "address": {
+                "street": "641 Phạm Văn Đồng",
+                "ward": "Cổ Nhuế",
+                "district": "Bắc Từ Liêm",
+                "state": "Hà Nội",
+                "country": "Việt Nam",
+                "full_address": "641 Phạm Văn Đồng, Cổ Nhuế, Bắc Từ Liêm, Hà Nội, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/5cfdd798696fb361044bf24a_IMAGE%202019-08-13%2011%3A34%3A58.jpg"
+              ],
+              "latitude": "21.049867000",
+              "longitude": "105.781975200"
+            }
+          ]
+        },
+        {
+          "id": 81,
+          "name": "Ba Đình",
+          "count": 1,
+          "state_name": "Hà Nội",
+          "stores": [
+            {
+              "id": 7,
+              "name": "259 Kim Mã",
+              "distance": "",
+              "address": {
+                "street": "259 Kim Mã",
+                "ward": null,
+                "district": "Ba Đình",
+                "state": "Hà Nội",
+                "country": "Việt Nam",
+                "full_address": "259 Kim Mã, , Ba Đình, Hà Nội, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/OIJcmHCEkxayecZsJgwNriU5UxLtVokrtTyA1xzn.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/uIxyZbKksnFliJVbjNvB8THqed9FpVvWUvFfwcl9.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/Lx9hSPR3TEewZaEWaBF5VIZO0j8pgDfJzcC3VUd8.jpeg"
+              ],
+              "latitude": "21.031198000",
+              "longitude": "105.822061000"
+            }
+          ]
+        },
+        {
+          "id": 85,
+          "name": "Cầu Giấy",
+          "count": 9,
+          "state_name": "Hà Nội",
+          "stores": [
+            {
+              "id": 436,
+              "name": "2 Hồ Tùng Mậu",
+              "distance": "",
+              "address": {
+                "street": "2 Hồ Tùng Mậu",
+                "ward": "Phường Mai Dịch",
+                "district": "Cầu Giấy",
+                "state": "Hà Nội",
+                "country": "Việt Nam",
+                "full_address": "2 Hồ Tùng Mậu, Phường Mai Dịch, Cầu Giấy, Hà Nội, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/r6DASvoBWIuKgSI9I3wi06Rn8qmWTwJtc2lKzu54.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/w7A9ery1AW75FFjBJtkx19nY4UML4TprUI14IjGM.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/4RnvEG1t8dw9ROOvzThQJ9e6kUoXVN8n5PlIOVtz.jpeg"
+              ],
+              "latitude": "21.037220000",
+              "longitude": "105.779767000"
+            },
+            {
+              "id": 39,
+              "name": "160 Nguyễn Khánh Toàn",
+              "distance": "",
+              "address": {
+                "street": "160 Nguyễn Khánh Toàn",
+                "ward": "Phường Quan Hoa",
+                "district": "Cầu Giấy",
+                "state": "Hà Nội",
+                "country": "Việt Nam",
+                "full_address": "160 Nguyễn Khánh Toàn, Phường Quan Hoa, Cầu Giấy, Hà Nội, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/MJcxKqrZkFJ3S6WJSXWKTdBIXpjVvDyHAB0IKln5.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/FXjUc9aAOv4DTfeZaGVW6K9cqd6vDvE9x2Gjw1Rg.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/J6goM5mCFkESkrIhkWttMiO4kFBvOAXXvjbdw296.jpeg"
+              ],
+              "latitude": "21.037728000",
+              "longitude": "105.801082000"
+            },
+            {
+              "id": 175,
+              "name": "3 Trung Hòa",
+              "distance": "",
+              "address": {
+                "street": "3 Trung Hòa",
+                "ward": "P. Trung Hoà",
+                "district": "Cầu Giấy",
+                "state": "Hà Nội",
+                "country": "Việt Nam",
+                "full_address": "3 Trung Hòa, P. Trung Hoà, Cầu Giấy, Hà Nội, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/T3NKXfZrYzdBypcbQwvJWumD50WtzzgmGfJaDnZp.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/dK73UPKfoqijEteGwqQRDjPGLXNILf8qzVxhjNAu.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/WWwYxDjigrV2qY6cmFV5YLu6ParRzP8UFm4CcaYW.jpeg"
+              ],
+              "latitude": "21.014423000",
+              "longitude": "105.801632000"
+            },
+            {
+              "id": 445,
+              "name": "207 Trung Kính",
+              "distance": "",
+              "address": {
+                "street": "207 Trung Kính",
+                "ward": "Phường Yên Hòa",
+                "district": "Cầu Giấy",
+                "state": "Hà Nội",
+                "country": "Việt Nam",
+                "full_address": "207 Trung Kính, Phường Yên Hòa, Cầu Giấy, Hà Nội, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/5kJdnZQB5avaKmABBHkRg2gvdrhYGN3xrdvbbdC1.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/r1G5dG86LV0M5dB4fcUkrJF49wwCCDlcEtuXbp5q.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/obx4QfGzxdlqMKJrWFwAlOztptMWtGHp43wDRkGp.jpeg"
+              ],
+              "latitude": "21.018894000",
+              "longitude": "105.792511000"
+            },
+            {
+              "id": 106,
+              "name": "Số 2 Ngõ 181 Xuân Thủy",
+              "distance": "",
+              "address": {
+                "street": "Số 2 Ngõ 181 Xuân Thủy",
+                "ward": "Dịch Vọng Hậu",
+                "district": "Cầu Giấy",
+                "state": "Hà Nội",
+                "country": "Việt Nam",
+                "full_address": "Số 2 Ngõ 181 Xuân Thủy, Dịch Vọng Hậu, Cầu Giấy, Hà Nội, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/qdInS6rbHhPtFkik18yPwIEZtxbMiZgEU9UWObD1.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/qXQ7YxdVpbYPHMKV2FtWOB37R5HXGZNLfJ6amDyd.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/QmesNPONGbRGW6pAL02fQnxDXTx9YIgojJcHBZ7D.jpeg"
+              ],
+              "latitude": "21.036446000",
+              "longitude": "105.783570000"
+            },
+            {
+              "id": 540,
+              "name": "60 Vũ Phạm Hàm",
+              "distance": "",
+              "address": {
+                "street": "60 Vũ Phạm Hàm",
+                "ward": "Yên Hòa",
+                "district": "Cầu Giấy",
+                "state": "Hà Nội",
+                "country": "Việt Nam",
+                "full_address": "60 Vũ Phạm Hàm, Yên Hòa, Cầu Giấy, Hà Nội, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/5bfe084efbc6865eac59c987_TCH%20HNI%2060%20Vu%E2%95%A0%C3%A2%20Pha%E2%95%A0%C3%BAm%20Ha%E2%95%A0%C3%87m.jpg"
+              ],
+              "latitude": "21.015903500",
+              "longitude": "105.795723100"
+            },
+            {
+              "id": 421,
+              "name": "UDIC Complex - N04 Hoàng Đạo Thúy",
+              "distance": "",
+              "address": {
+                "street": "UDIC Complex - N04 Hoàng Đạo Thúy",
+                "ward": "Trung Hòa",
+                "district": "Cầu Giấy",
+                "state": "Hà Nội",
+                "country": "Việt Nam",
+                "full_address": "UDIC Complex - N04 Hoàng Đạo Thúy, Trung Hòa, Cầu Giấy, Hà Nội, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/BPRDdlSvuNP33Iz7tgRAY7tjwGqc3xAtOlfbjSFw.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/22iZtySTez1IN36LJWkvIWnou0uz8PWBt6i1PfsL.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/z6kkJqXDlU5vOVdALTQa9s9pOLauYIBghbhb5CCE.jpeg"
+              ],
+              "latitude": "21.008681000",
+              "longitude": "105.800799000"
+            },
+            {
+              "id": 321,
+              "name": "36 Duy Tân",
+              "distance": "",
+              "address": {
+                "street": "36 Duy Tân",
+                "ward": "Phường Dịch Vọng Hậu",
+                "district": "Cầu Giấy",
+                "state": "Hà Nội",
+                "country": "Việt Nam",
+                "full_address": "36 Duy Tân, Phường Dịch Vọng Hậu, Cầu Giấy, Hà Nội, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/5b21f8cb1acd4d02032668db_IMAGE%202019-08-13%2011%3A31%3A20.jpg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/JMw3sV6isHiXVzY2NQ4VtxFCLNjLvw68R7z8cAjV.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/7l0hX5kR3xDIYulINubyob4qppz317Oi0RzmxKHN.jpeg"
+              ],
+              "latitude": "21.031002000",
+              "longitude": "105.785270000"
+            },
+            {
+              "id": 466,
+              "name": "Discovery Complex 302 Cầu Giấy",
+              "distance": "",
+              "address": {
+                "street": "Discovery Complex 302 Cầu Giấy",
+                "ward": "Phường Dịch Vọng",
+                "district": "Cầu Giấy",
+                "state": "Hà Nội",
+                "country": "Việt Nam",
+                "full_address": "Discovery Complex 302 Cầu Giấy, Phường Dịch Vọng, Cầu Giấy, Hà Nội, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/5b693704fbc68618ad24f8a6_IMAGE%202019-08-13%2011%3A29%3A49.jpg",
+                "https://rewards.thecoffeehouse.com/wp-content/uploads/discoveryhn_2.jpg",
+                "https://rewards.thecoffeehouse.com/wp-content/uploads/discoveryhn_3.jpg"
+              ],
+              "latitude": "21.035300000",
+              "longitude": "105.794528000"
+            }
+          ]
+        },
+        {
+          "id": 86,
+          "name": "Đống Đa",
+          "count": 3,
+          "state_name": "Hà Nội",
+          "stores": [
+            {
+              "id": 467,
+              "name": "1 Thái Hà",
+              "distance": "",
+              "address": {
+                "street": "1 Thái Hà",
+                "ward": "Phường Trung Liệt",
+                "district": "Đống Đa",
+                "state": "Hà Nội",
+                "country": "Việt Nam",
+                "full_address": "1 Thái Hà, Phường Trung Liệt, Đống Đa, Hà Nội, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/5b3b04d5fbc68621f3385252_TCH%20HNI%20So%E2%95%A0%C3%A9%E2%95%A0%C3%BC%201-2%20Tha%E2%95%A0%C3%BCi%20Ha%E2%95%A0%C3%87.jpg",
+                "http://rewards.thecoffeehouse.com/wp-content/uploads/thaiha_hanoi_1.jpg",
+                "http://rewards.thecoffeehouse.com/wp-content/uploads/thaiha_hanoi_3.jpg"
+              ],
+              "latitude": "21.009039000",
+              "longitude": "105.823918000"
+            },
+            {
+              "id": 37,
+              "name": "68A Hoàng Cầu Mới",
+              "distance": "",
+              "address": {
+                "street": "68A Hoàng Cầu Mới",
+                "ward": "Phường Ô Chợ Dừa",
+                "district": "Đống Đa",
+                "state": "Hà Nội",
+                "country": "Việt Nam",
+                "full_address": "68A Hoàng Cầu Mới, Phường Ô Chợ Dừa, Đống Đa, Hà Nội, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/GlTa3Se1y0b6pNkp2DqkG5No8RftWUdxZUxsFyvF.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/AVFrjVpkrrw818Jocm7Hs3fQd8C6Tka3thnV26dB.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/ZFoIr2UwHtfXzvlKQ7SzQPA9vN4oe2l8bKN2hViz.jpeg"
+              ],
+              "latitude": "21.016055000",
+              "longitude": "105.821272000"
+            },
+            {
+              "id": 534,
+              "name": "30 Hào Nam",
+              "distance": "",
+              "address": {
+                "street": "30 Hào Nam",
+                "ward": "Ô Chợ Dừa",
+                "district": "Đống Đa",
+                "state": "Hà Nội",
+                "country": "Việt Nam",
+                "full_address": "30 Hào Nam, Ô Chợ Dừa, Đống Đa, Hà Nội, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/5bda6dcffbc68614df6e1996_IMAGE%202019-08-13%2011%3A31%3A54.jpg"
+              ],
+              "latitude": "21.021624300",
+              "longitude": "105.826334000"
+            }
+          ]
+        },
+        {
+          "id": 97,
+          "name": "Hà Đông",
+          "count": 5,
+          "state_name": "Hà Nội",
+          "stores": [
+            {
+              "id": 516,
+              "name": "38 Nguyễn Khuyến",
+              "distance": "",
+              "address": {
+                "street": "38 Nguyễn Khuyến",
+                "ward": "Phường Phúc La",
+                "district": "Hà Đông",
+                "state": "Hà Nội",
+                "country": "Việt Nam",
+                "full_address": "38 Nguyễn Khuyến, Phường Phúc La, Hà Đông, Hà Nội, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/5b91e0e5fbc68604c565a9b6_TCH%20HNI%2038%20Nguye%E2%95%A0%C3%A9%E2%95%A0%C3%A2n%20Khuye%E2%95%A0%C3%A9%E2%95%A0%C3%BCn.jpg"
+              ],
+              "latitude": "20.975329300",
+              "longitude": "105.789441000"
+            },
+            {
+              "id": 371,
+              "name": "Chung cư Victoria Văn phú Tòa V2 Khu đô thị Văn Phú",
+              "distance": "",
+              "address": {
+                "street": "Chung cư Victoria Văn phú Tòa V2 Khu đô thị Văn Phú",
+                "ward": "Phú La",
+                "district": "Hà Đông",
+                "state": "Hà Nội",
+                "country": "Việt Nam",
+                "full_address": "Chung cư Victoria Văn phú Tòa V2 Khu đô thị Văn Phú, Phú La, Hà Đông, Hà Nội, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/sqnLwQ4epcBPr8CUUvTlRcAfYgJmxdF07SGHGWNQ.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/Xf9ZbO09aqizGmgjhzylQ1jsvWPxbLjXF16XzDmt.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/K7aJ3e9kG0nA7e5tltZKsvIglMxb4LCQwtlsFpQS.jpeg"
+              ],
+              "latitude": "20.959236000",
+              "longitude": "105.768069000"
+            },
+            {
+              "id": 1166,
+              "name": "Số BT16B5-06 Làng Việt Kiều Châu Âu, khu ĐTM Mỗ Lao",
+              "distance": "",
+              "address": {
+                "street": "Số BT16B5-06 Làng Việt Kiều Châu Âu, khu ĐTM Mỗ Lao",
+                "ward": "Mộ Lao",
+                "district": "Hà Đông",
+                "state": "Hà Nội",
+                "country": "Việt Nam",
+                "full_address": "Số BT16B5-06 Làng Việt Kiều Châu Âu, khu ĐTM Mỗ Lao, Mộ Lao, Hà Đông, Hà Nội, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "http://rewards.thecoffeehouse.com/wp-content/uploads/comingsoon-1.jpg"
+              ],
+              "latitude": "20.984043800",
+              "longitude": "105.787654700"
+            },
+            {
+              "id": 1165,
+              "name": "Khu Dân Cư",
+              "distance": "",
+              "address": {
+                "street": "Khu Dân Cư",
+                "ward": "Dương Nội",
+                "district": "Hà Đông",
+                "state": "Hà Nội",
+                "country": "Việt Nam",
+                "full_address": "Khu Dân Cư, Dương Nội, Hà Đông, Hà Nội, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "http://rewards.thecoffeehouse.com/wp-content/uploads/comingsoon-1.jpg"
+              ],
+              "latitude": "20.989952700",
+              "longitude": "105.750988900"
+            },
+            {
+              "id": 1167,
+              "name": "Tầng 1 tòa nhà CT5A thuộc dự án văn Khê",
+              "distance": "",
+              "address": {
+                "street": "Tầng 1 tòa nhà CT5A thuộc dự án văn Khê",
+                "ward": null,
+                "district": "Hà Đông",
+                "state": "Hà Nội",
+                "country": "Việt Nam",
+                "full_address": "Tầng 1 tòa nhà CT5A thuộc dự án văn Khê, , Hà Đông, Hà Nội, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "http://rewards.thecoffeehouse.com/wp-content/uploads/comingsoon-1.jpg"
+              ],
+              "latitude": "20.973308300",
+              "longitude": "105.762928800"
+            }
+          ]
+        },
+        {
+          "id": 87,
+          "name": "Hai Bà Trưng",
+          "count": 3,
+          "state_name": "Hà Nội",
+          "stores": [
+            {
+              "id": 38,
+              "name": " 458 Minh Khai",
+              "distance": "",
+              "address": {
+                "street": " 458 Minh Khai",
+                "ward": "Phường Vĩnh Tuy",
+                "district": "Hai Bà Trưng",
+                "state": "Hà Nội",
+                "country": "Việt Nam",
+                "full_address": " 458 Minh Khai, Phường Vĩnh Tuy, Hai Bà Trưng, Hà Nội, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/5qDKWOPnxqObpuHxmRGOyENPsdvsRoYY0kpUUHa4.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/w0ZpRczSlT5N5XNWKhG23kMgKhhPtf7Z1cVBjUou.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/ogr1hSJRrovrly68BbgoSqDoLFpBu6iEAv707323.jpeg"
+              ],
+              "latitude": "20.993436000",
+              "longitude": "105.869589000"
+            },
+            {
+              "id": 132,
+              "name": "159 Trần Đại Nghĩa",
+              "distance": "",
+              "address": {
+                "street": "159 Trần Đại Nghĩa",
+                "ward": "P. Bách Khoa",
+                "district": "Hai Bà Trưng",
+                "state": "Hà Nội",
+                "country": "Việt Nam",
+                "full_address": "159 Trần Đại Nghĩa, P. Bách Khoa, Hai Bà Trưng, Hà Nội, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/t61dKvElpg1MQlhhbO2Z0vpR5Nc3um1awulWq0IM.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/9UpoWlJZAswf7S5XMoufzSEPxEvHn17Z31bgULJu.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/1WhgZ6pX32qwfifW1g4wE9fpdcBKpYNWpjoOpEsY.jpeg"
+              ],
+              "latitude": "21.001154000",
+              "longitude": "105.845362000"
+            },
+            {
+              "id": 21,
+              "name": "122 Bùi Thị Xuân",
+              "distance": "",
+              "address": {
+                "street": "122 Bùi Thị Xuân",
+                "ward": "Phố Huế",
+                "district": "Hai Bà Trưng",
+                "state": "Hà Nội",
+                "country": "Việt Nam",
+                "full_address": "122 Bùi Thị Xuân, Phố Huế, Hai Bà Trưng, Hà Nội, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/hSRyZjxn2yvTkBIL8QRyBVotiVBcS3J4pgSzQEFM.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/NP2vP2XbxVmQfATZqKa67AsWc8GwEWJhNuyu82Nl.jpeg"
+              ],
+              "latitude": "21.013310000",
+              "longitude": "105.849816000"
+            }
+          ]
+        },
+        {
+          "id": 88,
+          "name": "Hoàng Mai",
+          "count": 3,
+          "state_name": "Hà Nội",
+          "stores": [
+            {
+              "id": 59,
+              "name": "Rice City Linh Đàm",
+              "distance": "",
+              "address": {
+                "street": "Rice City Linh Đàm",
+                "ward": "Tòa Trung",
+                "district": "Hoàng Mai",
+                "state": "Hà Nội",
+                "country": "Việt Nam",
+                "full_address": "Rice City Linh Đàm, Tòa Trung, Hoàng Mai, Hà Nội, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/fhzN39KobRWi5mCbUrljzf7VrPq10vkZPGdjHdL4.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/hlKmjni5aYWQEAgxjeAKsbq3aX9AJmn5rTjVApTz.jpeg"
+              ],
+              "latitude": "20.963392000",
+              "longitude": "105.822909000"
+            },
+            {
+              "id": 422,
+              "name": "72 Trần Nguyên Đán",
+              "distance": "",
+              "address": {
+                "street": "72 Trần Nguyên Đán",
+                "ward": "Định Công",
+                "district": "Hoàng Mai",
+                "state": "Hà Nội",
+                "country": "Việt Nam",
+                "full_address": "72 Trần Nguyên Đán, Định Công, Hoàng Mai, Hà Nội, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/HpYRRPjwSXfroFEjKcqTWWBOVUojM8i0Ai6a7p7w.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/0CeXJB3hLhFSiVk3HyWOd86fWk0g3tXi0U0EuSYZ.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/ovBSHPOzb1OKVBiVBGqhqU5394YT7HEIA70JxlAL.jpeg"
+              ],
+              "latitude": "20.988724000",
+              "longitude": "105.830788000"
+            },
+            {
+              "id": 536,
+              "name": "38A Kim Đồng",
+              "distance": "",
+              "address": {
+                "street": "38A Kim Đồng",
+                "ward": "Phường Giáp Bát",
+                "district": "Hoàng Mai",
+                "state": "Hà Nội",
+                "country": "Việt Nam",
+                "full_address": "38A Kim Đồng, Phường Giáp Bát, Hoàng Mai, Hà Nội, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/5bf373e4fbc686250c465108_IMAGE%202019-08-13%2011%3A32%3A28.jpg"
+              ],
+              "latitude": "20.983541800",
+              "longitude": "105.842276400"
+            }
+          ]
+        },
+        {
+          "id": 82,
+          "name": "Hoàn Kiếm",
+          "count": 2,
+          "state_name": "Hà Nội",
+          "stores": [
+            {
+              "id": 5,
+              "name": "56 Bà Triệu",
+              "distance": "",
+              "address": {
+                "street": "56 Bà Triệu",
+                "ward": null,
+                "district": "Hoàn Kiếm",
+                "state": "Hà Nội",
+                "country": "Việt Nam",
+                "full_address": "56 Bà Triệu, , Hoàn Kiếm, Hà Nội, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/jYtWMTpdGC72luMp3nBwJUohnOPJt4uzS48hwxph.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/epVusiJ1XJuiMxQaR3bF7qAymzZQk9jMcBAeTyaC.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/enjHa1vFPr2tuTwWWZXnYVYRSn2xOoPze1aijVaJ.jpeg"
+              ],
+              "latitude": "21.022416000",
+              "longitude": "105.850531000"
+            },
+            {
+              "id": 16,
+              "name": "23M Hai Bà Trưng",
+              "distance": "",
+              "address": {
+                "street": "23M Hai Bà Trưng",
+                "ward": "Tràng Tiền",
+                "district": "Hoàn Kiếm",
+                "state": "Hà Nội",
+                "country": "Việt Nam",
+                "full_address": "23M Hai Bà Trưng, Tràng Tiền, Hoàn Kiếm, Hà Nội, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/XDsayXeHzBHbg6hMzii8zwRSKIq0Y27MUM9vJ7Et.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/IRY8iAiSw9OBURsJV0xqKnMeOWf99CowK4lRgoGV.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/RnRbVolxHHotgTwwxu0DuW3KomL1Lt1g5gx9h3nN.jpeg"
+              ],
+              "latitude": "21.024067000",
+              "longitude": "105.853087000"
+            }
+          ]
+        },
+        {
+          "id": 93,
+          "name": "Nam Từ Liêm",
+          "count": 1,
+          "state_name": "Hà Nội",
+          "stores": [
+            {
+              "id": 1162,
+              "name": "B3-01, Gardenia Hàm Nghi",
+              "distance": "",
+              "address": {
+                "street": "B3-01, Gardenia Hàm Nghi",
+                "ward": "Mỹ Đình",
+                "district": "Nam Từ Liêm",
+                "state": "Hà Nội",
+                "country": "Việt Nam",
+                "full_address": "B3-01, Gardenia Hàm Nghi, Mỹ Đình, Nam Từ Liêm, Hà Nội, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/5d2ea9ec696fb35b294ae43b_IMAGE%202019-08-12%2011%3A31%3A52.jpg"
+              ],
+              "latitude": "21.035255300",
+              "longitude": "105.764171800"
+            }
+          ]
+        },
+        {
+          "id": 89,
+          "name": "Thanh Xuân",
+          "count": 2,
+          "state_name": "Hà Nội",
+          "stores": [
+            {
+              "id": 553,
+              "name": "47 Nguyễn Tuân",
+              "distance": "",
+              "address": {
+                "street": "47 Nguyễn Tuân",
+                "ward": null,
+                "district": "Thanh Xuân",
+                "state": "Hà Nội",
+                "country": "Việt Nam",
+                "full_address": "47 Nguyễn Tuân, , Thanh Xuân, Hà Nội, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "http://rewards.thecoffeehouse.com/wp-content/uploads/comingsoon-1.jpg"
+              ],
+              "latitude": "20.995376600",
+              "longitude": "105.803395100"
+            },
+            {
+              "id": 551,
+              "name": "11 Vương Thừa Vũ",
+              "distance": "",
+              "address": {
+                "street": "11 Vương Thừa Vũ",
+                "ward": null,
+                "district": "Thanh Xuân",
+                "state": "Hà Nội",
+                "country": "Việt Nam",
+                "full_address": "11 Vương Thừa Vũ, , Thanh Xuân, Hà Nội, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/5cadc5b6696fb35468487a36_IMAGE%202019-08-13%2011%3A36%3A49.jpg"
+              ],
+              "latitude": "21.001146700",
+              "longitude": "105.822537700"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "name": "Đắk Lắk",
+      "count": 2,
+      "districts": [
+        {
+          "id": 335,
+          "name": "Buôn Ma Thuột",
+          "count": 2,
+          "state_name": "Đắk Lắk",
+          "stores": [
+            {
+              "id": 512,
+              "name": "45 Phan Chu Trinh",
+              "distance": "",
+              "address": {
+                "street": "45 Phan Chu Trinh",
+                "ward": "Phường Thắng Lợi",
+                "district": "Buôn Ma Thuột",
+                "state": "Đắk Lắk",
+                "country": "Việt Nam",
+                "full_address": "45 Phan Chu Trinh, Phường Thắng Lợi, Buôn Ma Thuột, Đắk Lắk, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/5b86089ffbc6867f143453b7_TCH%20DLK%2045%20Phan%20Cha%E2%95%A0%C3%A9u%20Trinh.jpg"
+              ],
+              "latitude": "12.683630600",
+              "longitude": "108.045339300"
+            },
+            {
+              "id": 513,
+              "name": "96-98-100 Y Jut",
+              "distance": "",
+              "address": {
+                "street": "96-98-100 Y Jut",
+                "ward": null,
+                "district": "Buôn Ma Thuột",
+                "state": "Đắk Lắk",
+                "country": "Việt Nam",
+                "full_address": "96-98-100 Y Jut, , Buôn Ma Thuột, Đắk Lắk, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/5b86089ffbc6867f143453b6_TCH%20DLK%20%E2%94%80%C3%89u%E2%95%A0%C2%A2o%E2%95%A0%C2%A2%E2%95%A0%C3%87ng%20Y%20Jut.jpg"
+              ],
+              "latitude": "12.680995700",
+              "longitude": "108.042902500"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "name": "Đà Nẵng",
+      "count": 9,
+      "districts": [
+        {
+          "id": 152,
+          "name": "Quận Hải Châu",
+          "count": 6,
+          "state_name": "Đà Nẵng",
+          "stores": [
+            {
+              "id": 546,
+              "name": "1 Núi Thành",
+              "distance": "",
+              "address": {
+                "street": "1 Núi Thành",
+                "ward": "Phường Bình Thuận",
+                "district": "Quận Hải Châu",
+                "state": "Đà Nẵng",
+                "country": "Việt Nam",
+                "full_address": "1 Núi Thành, Phường Bình Thuận, Quận Hải Châu, Đà Nẵng, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/5c244ba5fbc686393b0994cd_1.%20nui%20thanh.jpg"
+              ],
+              "latitude": "16.054514800",
+              "longitude": "108.220216400"
+            },
+            {
+              "id": 539,
+              "name": "82 Ba Tháng Hai",
+              "distance": "",
+              "address": {
+                "street": "82 Ba Tháng Hai",
+                "ward": "Thuận Phước",
+                "district": "Quận Hải Châu",
+                "state": "Đà Nẵng",
+                "country": "Việt Nam",
+                "full_address": "82 Ba Tháng Hai, Thuận Phước, Quận Hải Châu, Đà Nẵng, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/5bfe084efbc6865eac59c989_Ba%20Tha%E2%95%A0%C3%BCng%20Hai%20-%20%E2%94%80%C3%89a%E2%95%A0%C3%87%20na%E2%95%A0%C3%A5%E2%95%A0%C3%A2ng%20-%20store%20na%E2%95%A0%C3%87y%20cu%E2%95%A0%C3%A2ng%20chu%E2%95%A0%C2%A2a%20co%E2%95%A0%C3%BC%20hi%E2%95%A0%C3%87nh%20na%E2%95%A0%C3%87.jpg"
+              ],
+              "latitude": "16.085568100",
+              "longitude": "108.217343600"
+            },
+            {
+              "id": 145,
+              "name": "80A Nguyễn Chí Thanh",
+              "distance": "",
+              "address": {
+                "street": "80A Nguyễn Chí Thanh",
+                "ward": "Phường Hải Châu 1",
+                "district": "Quận Hải Châu",
+                "state": "Đà Nẵng",
+                "country": "Việt Nam",
+                "full_address": "80A Nguyễn Chí Thanh, Phường Hải Châu 1, Quận Hải Châu, Đà Nẵng, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/HfH8Pxtdq96QvaKS8DmtMBifzXS2W8AW7ISpIqBc.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/VL7wD82HfHzPVubuZJ5FvKl4ObLgQeWkeZqcq24b.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/CvdsbqkgHFdLnOTwSmVFOrnAiCkwkzMtGKUCmsdT.jpeg"
+              ],
+              "latitude": "16.072854000",
+              "longitude": "108.220832000"
+            },
+            {
+              "id": 110,
+              "name": "A4-2 Nguyễn Văn Linh",
+              "distance": "",
+              "address": {
+                "street": "A4-2 Nguyễn Văn Linh",
+                "ward": "Phường Phước Ninh",
+                "district": "Quận Hải Châu",
+                "state": "Đà Nẵng",
+                "country": "Việt Nam",
+                "full_address": "A4-2 Nguyễn Văn Linh, Phường Phước Ninh, Quận Hải Châu, Đà Nẵng, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/gm7muAGH1zUDUhmGvTXgo3RarVEmN4J6XzzmN8Ff.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/mlaTuDKjmeKuvBOFA01t1ddjYx1ghrusoWVONyND.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/9Mx6cIQJkoGzt6v7ZPZIlUjkb98eOjczn2NzDmoP.jpeg"
+              ],
+              "latitude": "16.060842000",
+              "longitude": "108.223450000"
+            },
+            {
+              "id": 123,
+              "name": "80 Pasteur",
+              "distance": "",
+              "address": {
+                "street": "80 Pasteur",
+                "ward": "Hải Châu 1",
+                "district": "Quận Hải Châu",
+                "state": "Đà Nẵng",
+                "country": "Việt Nam",
+                "full_address": "80 Pasteur, Hải Châu 1, Quận Hải Châu, Đà Nẵng, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/elwMO0EUryQ42SdiihamO3LVfNZhfEtd7fYOuZsm.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/xOJP2wnO7YvZrWp2FCsQYOLg9qqhLARlFq7tXOil.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/fGMK9bYMCIjECx0s31uZhdeiqM0f3SzmmDzZZBJb.jpeg"
+              ],
+              "latitude": "16.069632000",
+              "longitude": "108.217346000"
+            },
+            {
+              "id": 505,
+              "name": "9 Triệu Nữ Vương",
+              "distance": "",
+              "address": {
+                "street": "9 Triệu Nữ Vương",
+                "ward": "Hải Châu 2",
+                "district": "Quận Hải Châu",
+                "state": "Đà Nẵng",
+                "country": "Việt Nam",
+                "full_address": "9 Triệu Nữ Vương, Hải Châu 2, Quận Hải Châu, Đà Nẵng, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/5b7e78b9fbc6866d9e05d734_TCH%20DNG%209%20Trie%E2%95%A0%C3%BA%E2%95%A0%C3%A9u%20Nu%E2%95%A0%C2%A2%E2%95%A0%C3%A2%20Vu%E2%95%A0%C2%A2o%E2%95%A0%C2%A2ng.jpg",
+                "https://rewards.thecoffeehouse.com/wp-content/uploads/trieunuvuongdn_2.jpg",
+                "https://rewards.thecoffeehouse.com/wp-content/uploads/trieunuvuongdn_3.jpg"
+              ],
+              "latitude": "16.067233000",
+              "longitude": "108.215798000"
+            }
+          ]
+        },
+        {
+          "id": 154,
+          "name": "Quận Sơn Trà",
+          "count": 2,
+          "state_name": "Đà Nẵng",
+          "stores": [
+            {
+              "id": 487,
+              "name": "195 Nguyễn Văn Thoại",
+              "distance": "",
+              "address": {
+                "street": "195 Nguyễn Văn Thoại",
+                "ward": "Phường An Hải Đông",
+                "district": "Quận Sơn Trà",
+                "state": "Đà Nẵng",
+                "country": "Việt Nam",
+                "full_address": "195 Nguyễn Văn Thoại, Phường An Hải Đông, Quận Sơn Trà, Đà Nẵng, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/5b46b2d6fbc686139f4d1bf4_TCH%20DNG%20195%20Nguye%E2%95%A0%C3%A9%E2%95%A0%C3%A2n%20Va%E2%95%A0%C3%A5n%20Thoa%E2%95%A0%C3%BAi.jpg",
+                "https://rewards.thecoffeehouse.com/wp-content/uploads/nguyenvanthoaidn_2.jpg",
+                "https://rewards.thecoffeehouse.com/wp-content/uploads/nguyenvanthoaidn_3.jpg"
+              ],
+              "latitude": "16.055500000",
+              "longitude": "108.243207000"
+            },
+            {
+              "id": 333,
+              "name": "461 Trần Hưng Đạo",
+              "distance": "",
+              "address": {
+                "street": "461 Trần Hưng Đạo",
+                "ward": "Phường An Hải Tây",
+                "district": "Quận Sơn Trà",
+                "state": "Đà Nẵng",
+                "country": "Việt Nam",
+                "full_address": "461 Trần Hưng Đạo, Phường An Hải Tây, Quận Sơn Trà, Đà Nẵng, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/fwTQoDffXRQKkn1gS0uDZFGqfgOFxhIyiiBWiNVA.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/PKeivzcKoJOd1dqiGMosLNZ61lK6MFWu2LQncZca.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/aurXsS7NfnoPjnrPgXNay1ThPBKnzDIkOMdXYUGu.jpeg"
+              ],
+              "latitude": "16.064342000",
+              "longitude": "108.230120000"
+            }
+          ]
+        },
+        {
+          "id": 153,
+          "name": "Quận Thanh Khê",
+          "count": 1,
+          "state_name": "Đà Nẵng",
+          "stores": [
+            {
+              "id": 109,
+              "name": "435 Lê Duẩn",
+              "distance": "",
+              "address": {
+                "street": "435 Lê Duẩn",
+                "ward": "Phường Thạc Gián",
+                "district": "Quận Thanh Khê",
+                "state": "Đà Nẵng",
+                "country": "Việt Nam",
+                "full_address": "435 Lê Duẩn, Phường Thạc Gián, Quận Thanh Khê, Đà Nẵng, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/3dVzInMHQNBdS0p3TWzAl7jvLwGqt9OxuTePBYM9.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/3tRVhTTDnEHgowdbKWCdZ6c4XDIZtJ3AIkhcHt6N.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/a05A1ZIlcGNnvTP5lADghgsZeaBMI5skCs1fszGK.jpeg"
+              ],
+              "latitude": "16.067044000",
+              "longitude": "108.207627000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "name": "Nghệ An",
+      "count": 3,
+      "districts": [
+        {
+          "id": 336,
+          "name": "Thành Phố Vinh",
+          "count": 3,
+          "state_name": "Nghệ An",
+          "stores": [
+            {
+              "id": 522,
+              "name": "87A Nguyễn Văn Cừ",
+              "distance": "",
+              "address": {
+                "street": "87A Nguyễn Văn Cừ",
+                "ward": "Phường Hưng Bình",
+                "district": "Thành Phố Vinh",
+                "state": "Nghệ An",
+                "country": "Việt Nam",
+                "full_address": "87A Nguyễn Văn Cừ, Phường Hưng Bình, Thành Phố Vinh, Nghệ An, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/5bc6aa23fbc686224a6726fe_TCH%20NAN%2087A%20Nguye%E2%95%A0%C3%A9%E2%95%A0%C3%A2n%20Va%E2%95%A0%C3%A5n%20Cu%E2%95%A0%C2%A2%E2%95%A0%C3%87.jpg"
+              ],
+              "latitude": "18.675771400",
+              "longitude": "105.685969700"
+            },
+            {
+              "id": 529,
+              "name": "07 Quang Trung",
+              "distance": "",
+              "address": {
+                "street": "07 Quang Trung",
+                "ward": null,
+                "district": "Thành Phố Vinh",
+                "state": "Nghệ An",
+                "country": "Việt Nam",
+                "full_address": "07 Quang Trung, , Thành Phố Vinh, Nghệ An, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/5bc6aa23fbc686224a6726fd_1.%20Quang%20trung%20NAN.jpg"
+              ],
+              "latitude": "18.667441600",
+              "longitude": "105.673560300"
+            },
+            {
+              "id": 511,
+              "name": "02 Trường Thi",
+              "distance": "",
+              "address": {
+                "street": "02 Trường Thi",
+                "ward": "Phường Trường Thi",
+                "district": "Thành Phố Vinh",
+                "state": "Nghệ An",
+                "country": "Việt Nam",
+                "full_address": "02 Trường Thi, Phường Trường Thi, Thành Phố Vinh, Nghệ An, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/5b86089ffbc6867f143453b5_IMAGE%202019-08-13%2011%3A36%3A12.jpg"
+              ],
+              "latitude": "18.665615300",
+              "longitude": "105.687965900"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "name": "Hải Phòng",
+      "count": 5,
+      "districts": [
+        {
+          "id": 331,
+          "name": "Hồng Bàng",
+          "count": 1,
+          "state_name": "Hải Phòng",
+          "stores": [
+            {
+              "id": 507,
+              "name": "86 Điện Biên Phủ",
+              "distance": "",
+              "address": {
+                "street": "86 Điện Biên Phủ",
+                "ward": "Minh Khai",
+                "district": "Hồng Bàng",
+                "state": "Hải Phòng",
+                "country": "Việt Nam",
+                "full_address": "86 Điện Biên Phủ, Minh Khai, Hồng Bàng, Hải Phòng, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/5b7a3521fbc6863aba588922_TCH%20HPG%2086%20%E2%94%80%C3%89ie%E2%95%A0%C3%BA%E2%95%A0%C3%A9n%20Bie%E2%95%A0%C3%A9n%20Phu%E2%95%A0%C3%AB.jpg"
+              ],
+              "latitude": "20.861744300",
+              "longitude": "106.680649800"
+            }
+          ]
+        },
+        {
+          "id": 269,
+          "name": "Ngô Quyền",
+          "count": 4,
+          "state_name": "Hải Phòng",
+          "stores": [
+            {
+              "id": 545,
+              "name": "2-4 Cầu Đất",
+              "distance": "",
+              "address": {
+                "street": "2-4 Cầu Đất",
+                "ward": null,
+                "district": "Ngô Quyền",
+                "state": "Hải Phòng",
+                "country": "Việt Nam",
+                "full_address": "2-4 Cầu Đất, , Ngô Quyền, Hải Phòng, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/5c244ba5fbc686393b0994cc_2-4%20Ca%E2%95%A0%C3%A9%E2%95%A0%C3%87u%20%E2%94%80%C3%89a%E2%95%A0%C3%A9%E2%95%A0%C3%BCt%20Ha%E2%95%A0%C3%ABi%20Pho%E2%95%A0%C3%87ng%20-%20store%20na%E2%95%A0%C3%87y%20cu%E2%95%A0%C3%A2ng%20chu%E2%95%A0%C2%A2a%20hi%E2%95%A0%C3%87nh.jpg"
+              ],
+              "latitude": "20.855813800",
+              "longitude": "106.681658200"
+            },
+            {
+              "id": 528,
+              "name": "119 Cầu Đất",
+              "distance": "",
+              "address": {
+                "street": "119 Cầu Đất",
+                "ward": null,
+                "district": "Ngô Quyền",
+                "state": "Hải Phòng",
+                "country": "Việt Nam",
+                "full_address": "119 Cầu Đất, , Ngô Quyền, Hải Phòng, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/5bc6aa23fbc686224a6726f8_119%20Ca%E2%95%A0%C3%A9%E2%95%A0%C3%87u%20%E2%94%80%C3%89a%E2%95%A0%C3%A9%E2%95%A0%C3%BCt%20Ha%E2%95%A0%C3%ABi%20Pho%E2%95%A0%C3%87ng%20-%20cu%E2%95%A0%C3%A2ng%20chu%E2%95%A0%C2%A2a%20co%E2%95%A0%C3%BC%20hi%E2%95%A0%C3%87nh%20luo%E2%95%A0%C3%A9ng.jpg"
+              ],
+              "latitude": "20.853803800",
+              "longitude": "106.683952300"
+            },
+            {
+              "id": 372,
+              "name": "15 Trần Phú",
+              "distance": "",
+              "address": {
+                "street": "15 Trần Phú",
+                "ward": "Phường Lương Khánh Thiện",
+                "district": "Ngô Quyền",
+                "state": "Hải Phòng",
+                "country": "Việt Nam",
+                "full_address": "15 Trần Phú, Phường Lương Khánh Thiện, Ngô Quyền, Hải Phòng, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/U5jjCKIOpEMWJPlxxvktlEKAlnb7SKctq0uVeBIW.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/z2vVnc8NEkWN7Q51YiCH2JdPIunw4lWYmAzwPW4G.jpeg",
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/RrUhDtg5FtZnXMGnrn11dpd6vHAacSMHw4aXUAeg.jpeg"
+              ],
+              "latitude": "20.859074000",
+              "longitude": "106.687534000"
+            },
+            {
+              "id": 1170,
+              "name": "Số 1 Lê Hồng Phong",
+              "distance": "",
+              "address": {
+                "street": "Số 1 Lê Hồng Phong",
+                "ward": "Phường Lạ Viên",
+                "district": "Ngô Quyền",
+                "state": "Hải Phòng",
+                "country": "Việt Nam",
+                "full_address": "Số 1 Lê Hồng Phong, Phường Lạ Viên, Ngô Quyền, Hải Phòng, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "http://rewards.thecoffeehouse.com/wp-content/uploads/comingsoon-1.jpg"
+              ],
+              "latitude": "20.860790200",
+              "longitude": "106.696723100"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "name": "Tiền Giang",
+      "count": 1,
+      "districts": [
+        {
+          "id": 345,
+          "name": "Mỹ Tho",
+          "count": 1,
+          "state_name": "Tiền Giang",
+          "stores": [
+            {
+              "id": 523,
+              "name": "237-240 Ấp Bắc",
+              "distance": "",
+              "address": {
+                "street": "237-240 Ấp Bắc",
+                "ward": null,
+                "district": "Mỹ Tho",
+                "state": "Tiền Giang",
+                "country": "Việt Nam",
+                "full_address": "237-240 Ấp Bắc, , Mỹ Tho, Tiền Giang, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://feed.thecoffeehouse.com/content/images/2018/10/TCH-My-Tho.jpg"
+              ],
+              "latitude": "10.368017600",
+              "longitude": "106.351716600"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "name": "Hưng Yên",
+      "count": 2,
+      "districts": [
+        {
+          "id": 350,
+          "name": "Văn Giang",
+          "count": 2,
+          "state_name": "Hưng Yên",
+          "stores": [
+            {
+              "id": 535,
+              "name": "B65 Phố Trúc Ecopark,",
+              "distance": "",
+              "address": {
+                "street": "B65 Phố Trúc Ecopark,",
+                "ward": "Phường Xuân Giang",
+                "district": "Văn Giang",
+                "state": "Hưng Yên",
+                "country": "Việt Nam",
+                "full_address": "B65 Phố Trúc Ecopark,, Phường Xuân Giang, Văn Giang, Hưng Yên, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://s3-ap-southeast-1.amazonaws.com/tch-mkt-digital-cms/The+Coffee+House/Stores/ecopark.jpg"
+              ],
+              "latitude": "20.973171200",
+              "longitude": "105.921356700"
+            },
+            {
+              "id": 1171,
+              "name": "Tầng 1, căn L1-02 - Tháp Lake 1,Dự Án Căn Hộ AQUA BAY, Khu đô thị thương mại ECOPARK",
+              "distance": "",
+              "address": {
+                "street": "Tầng 1, căn L1-02 - Tháp Lake 1,Dự Án Căn Hộ AQUA BAY, Khu đô thị thương mại ECOPARK",
+                "ward": "Xuân Quang",
+                "district": "Văn Giang",
+                "state": "Hưng Yên",
+                "country": "Việt Nam",
+                "full_address": "Tầng 1, căn L1-02 - Tháp Lake 1,Dự Án Căn Hộ AQUA BAY, Khu đô thị thương mại ECOPARK, Xuân Quang, Văn Giang, Hưng Yên, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "http://rewards.thecoffeehouse.com/wp-content/uploads/comingsoon-1.jpg"
+              ],
+              "latitude": "20.953336300",
+              "longitude": "105.938613800"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "name": "Thừa Thiên Huế",
+      "count": 2,
+      "districts": [
+        {
+          "id": 352,
+          "name": "Thành phố Huế",
+          "count": 2,
+          "state_name": "Thừa Thiên Huế",
+          "stores": [
+            {
+              "id": 1154,
+              "name": "39A Thạch Hãn",
+              "distance": "",
+              "address": {
+                "street": "39A Thạch Hãn",
+                "ward": "Phường Thuận Hòa",
+                "district": "Thành phố Huế",
+                "state": "Thừa Thiên Huế",
+                "country": "Việt Nam",
+                "full_address": "39A Thạch Hãn, Phường Thuận Hòa, Thành phố Huế, Thừa Thiên Huế, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/5cfdd798696fb361044bf24b_IMAGE%202019-08-13%2011%3A38%3A50.jpg"
+              ],
+              "latitude": "16.470242400",
+              "longitude": "107.570287600"
+            },
+            {
+              "id": 538,
+              "name": "61 Võ Thị Sáu",
+              "distance": "",
+              "address": {
+                "street": "61 Võ Thị Sáu",
+                "ward": "Phú Hội",
+                "district": "Thành phố Huế",
+                "state": "Thừa Thiên Huế",
+                "country": "Việt Nam",
+                "full_address": "61 Võ Thị Sáu, Phú Hội, Thành phố Huế, Thừa Thiên Huế, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/5bfe084efbc6865eac59c98b_TCH%20HUE%20So%E2%95%A0%C3%A9%E2%95%A0%C3%BC%2061%20Vo%E2%95%A0%C3%A2%20Thi%E2%95%A0%C3%BA%20Sa%E2%95%A0%C3%BCu.jpg"
+              ],
+              "latitude": "16.470570600",
+              "longitude": "107.595852700"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "name": "Khánh Hòa",
+      "count": 1,
+      "districts": [
+        {
+          "id": 357,
+          "name": "Thành phố Nha Trang",
+          "count": 1,
+          "state_name": "Khánh Hòa",
+          "stores": [
+            {
+              "id": 1161,
+              "name": "44 Trần Phú",
+              "distance": "",
+              "address": {
+                "street": "44 Trần Phú",
+                "ward": "Phường Lộc Thọ",
+                "district": "Thành phố Nha Trang",
+                "state": "Khánh Hòa",
+                "country": "Việt Nam",
+                "full_address": "44 Trần Phú, Phường Lộc Thọ, Thành phố Nha Trang, Khánh Hòa, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/5d1973b0696fb3411e5ad777_IMAGE%202019-08-13%2011%3A34%3A12.jpg"
+              ],
+              "latitude": "12.241021500",
+              "longitude": "109.195520900"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "name": "Bắc Ninh",
+      "count": 2,
+      "districts": [
+        {
+          "id": 348,
+          "name": "Thành phố Bắc Ninh",
+          "count": 2,
+          "state_name": "Bắc Ninh",
+          "stores": [
+            {
+              "id": 543,
+              "name": "98 Huyền Quang",
+              "distance": "",
+              "address": {
+                "street": "98 Huyền Quang",
+                "ward": "Phường Ninh Xá",
+                "district": "Thành phố Bắc Ninh",
+                "state": "Bắc Ninh",
+                "country": "Việt Nam",
+                "full_address": "98 Huyền Quang, Phường Ninh Xá, Thành phố Bắc Ninh, Bắc Ninh, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/5c0de0e91acd4d35f4394c85_Huye%E2%95%A0%C3%A9%E2%95%A0%C3%87n%20Quang%20Ba%E2%95%A0%C3%A5%E2%95%A0%C3%BCc%20Ninh%20-%20cu%E2%95%A0%C3%A2ng%20chu%E2%95%A0%C2%A2a%20co%E2%95%A0%C3%BC%20hi%E2%95%A0%C3%87nh%20na%E2%95%A0%C3%87.jpg"
+              ],
+              "latitude": "21.175968600",
+              "longitude": "106.061884100"
+            },
+            {
+              "id": 531,
+              "name": "01 Nguyễn Gia Thiều",
+              "distance": "",
+              "address": {
+                "street": "01 Nguyễn Gia Thiều",
+                "ward": "Suối Hoa",
+                "district": "Thành phố Bắc Ninh",
+                "state": "Bắc Ninh",
+                "country": "Việt Nam",
+                "full_address": "01 Nguyễn Gia Thiều, Suối Hoa, Thành phố Bắc Ninh, Bắc Ninh, Việt Nam"
+              },
+              "phone": "02871087088",
+              "opening_time": "07:00",
+              "closing_time": "22:00",
+              "status": "Open",
+              "images": [
+                "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/5bda6dcffbc68614df6e1997_Nguye%E2%95%A0%C3%A9%E2%95%A0%C3%A2n%20Gia%20Thie%E2%95%A0%C3%A9%E2%95%A0%C3%87u-%20Ba%E2%95%A0%C3%A5%E2%95%A0%C3%BCc%20ninh%20-%20cu%E2%95%A0%C3%A2ng%20chu%E2%95%A0%C2%A2a%20co%E2%95%A0%C3%BC%20hi%E2%95%A0%C3%87nh%20nha.jpg"
+              ],
+              "latitude": "21.187999200",
+              "longitude": "106.073466900"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

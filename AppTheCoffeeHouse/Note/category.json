@@ -1,0 +1,353 @@
+[
+  {
+    "name": "Phổ biến",
+    "type": "grid",
+    "data": [
+      {
+        "id": 17,
+        "name": "Có thể bạn thích",
+        "description": null,
+        "branch": "TCH",
+        "image": "http://rewards.thecoffeehouse.com/wp-content/uploads/monganday.png",
+        "type": "default_with_header",
+        "sectionStyle": {
+          "header": true,
+          "horizontal": true,
+          "numColumns": 3,
+          "background": "transparent",
+          "itemStyle": {
+            "type": "highlight",
+            "shadow": true
+          }
+        }
+      },
+      {
+        "_id": "5af5602d8167f03b21ff7e1c",
+        "id": 9,
+        "name": "Món được yêu thích",
+        "description": "Món được yêu thích",
+        "branch": "TCH",
+        "image": "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/menufrontend/itfvp55SKSoUVA0fZUAt2cZIQv4j3Oh9wShz4qNY.png",
+        "updated_at": {
+          "$date": {
+            "$numberLong": "1547803763000"
+          }
+        },
+        "locale": {
+          "vi": "Món được yêu thích",
+          "en": "Món được yêu thích"
+        },
+        "localize": {
+          "vi": "Món được yêu thích",
+          "en": "Món được yêu thích"
+        },
+        "created_at": {
+          "$date": {
+            "$numberLong": "1546852113000"
+          }
+        },
+        "type": "default_with_header"
+      },
+      {
+        "id": 6969,
+        "name": "Yêu thích",
+        "description": null,
+        "branch": "TCH",
+        "image": "http://rewards.thecoffeehouse.com/wp-content/uploads/monyeuthich.png",
+        "type": "default_with_header",
+        "sectionStyle": {
+          "header": true,
+          "horizontal": false,
+          "numColumns": 2,
+          "background": "transparent",
+          "itemStyle": {
+            "type": "default",
+            "shadow": true
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Thức uống",
+    "type": "grid",
+    "data": [
+      {
+        "_id": "5af5602d8167f03b21ff7e1d",
+        "id": 1,
+        "name": "Cà phê",
+        "description": "Cà Phê",
+        "branch": "TCH",
+        "image": "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/menufrontend/TX17lTus7rz4Q1iFMROSTMLEcZf4ZH3jPj1CBVIG.png",
+        "updated_at": {
+          "$date": {
+            "$numberLong": "1546852114000"
+          }
+        },
+        "locale": {
+          "vi": "Cà phê",
+          "en": "Coffee"
+        },
+        "localize": {
+          "vi": "Cà phê",
+          "en": "Coffee"
+        },
+        "created_at": {
+          "$date": {
+            "$numberLong": "1546852113000"
+          }
+        },
+        "type": "default_with_header"
+      },
+      {
+        "_id": "5af5602d8167f03b21ff7e1f",
+        "id": 2,
+        "name": "Thức uống đá xay",
+        "description": "Cà Phê Đá Xay",
+        "branch": "TCH",
+        "image": "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/menufrontend/wf55DdU0owjWKP0Ra4So8AJlI5UN0C9bdn1DOTHJ.png",
+        "updated_at": {
+          "$date": {
+            "$numberLong": "1546852114000"
+          }
+        },
+        "locale": {
+          "vi": "Thức uống đá xay",
+          "en": "Ice blend"
+        },
+        "localize": {
+          "vi": "Thức uống đá xay",
+          "en": "Ice blend"
+        },
+        "created_at": {
+          "$date": {
+            "$numberLong": "1546852113000"
+          }
+        },
+        "type": "default_with_header"
+      },
+      {
+        "_id": "5af5602d8167f03b21ff7e21",
+        "id": 5,
+        "name": "Trà trái cây",
+        "description": "Mockail",
+        "branch": "TCH",
+        "image": "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/menufrontend/WQAwFYjEBiW13mdM2Tmd1yq6kr4IhQIcHwVLCUxO.png",
+        "updated_at": {
+          "$date": {
+            "$numberLong": "1547803299000"
+          }
+        },
+        "locale": {
+          "vi": "Trà trái cây",
+          "en": "Tea"
+        },
+        "localize": {
+          "vi": "Trà trái cây",
+          "en": "Tea"
+        },
+        "created_at": {
+          "$date": {
+            "$numberLong": "1546852113000"
+          }
+        },
+        "type": "default_with_header"
+      },
+      {
+        "_id": "5af5602d8167f03b21ff7e22",
+        "id": 6,
+        "name": "Thức uống trái cây",
+        "description": "Smoothies",
+        "branch": "TCH",
+        "image": "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/menufrontend/d6Y3mES4ngkXjMMoF7kkqTOmT35HPGzfNmFfbM8C.png",
+        "updated_at": {
+          "$date": {
+            "$numberLong": "1546852114000"
+          }
+        },
+        "locale": {
+          "vi": "Thức uống trái cây",
+          "en": "Smoothies"
+        },
+        "localize": {
+          "vi": "Thức uống trái cây",
+          "en": "Smoothies"
+        },
+        "created_at": {
+          "$date": {
+            "$numberLong": "1546852113000"
+          }
+        },
+        "type": "default_with_header"
+      },
+      {
+        "_id": "5af5602d8167f03b21ff7e23",
+        "id": 4,
+        "name": "Macchiato",
+        "description": "Trà",
+        "branch": "TCH",
+        "image": "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/menufrontend/DGzoB29E4dP5NyYzLdN03rK6z3KSs2mFOaMzYW1r.png",
+        "updated_at": {
+          "$date": {
+            "$numberLong": "1546852114000"
+          }
+        },
+        "locale": {
+          "vi": "Macchiato",
+          "en": "Macchiato"
+        },
+        "localize": {
+          "vi": "Macchiato",
+          "en": "Macchiato"
+        },
+        "created_at": {
+          "$date": {
+            "$numberLong": "1546852113000"
+          }
+        },
+        "type": "default_with_header"
+      },
+      {
+        "_id": "5af5602d8167f03b21ff7e29",
+        "id": 15,
+        "name": "Choco-Matcha",
+        "description": "Choco-Matcha",
+        "branch": "TCH",
+        "updated_at": {
+          "$date": {
+            "$numberLong": "1546852114000"
+          }
+        },
+        "image": "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/menufrontend/G7tiXVQTqgTUvpfBWYqeOVjz2FGJCS1cr1l9bQTM.png",
+        "locale": {
+          "vi": "Choco-Matcha",
+          "en": "Choco-Matcha"
+        },
+        "localize": {
+          "vi": "Choco-Matcha",
+          "en": "Choco-Matcha"
+        },
+        "created_at": {
+          "$date": {
+            "$numberLong": "1546852113000"
+          }
+        },
+        "type": "default_with_header"
+      },
+      {
+        "_id": "5e7b55301a15ed97b7210542",
+        "name": "Cà phê gói",
+        "branch": "TCH",
+        "description": "Cà phê gói",
+        "id": 18,
+        "locale": {
+          "vi": "Cà phê gói",
+          "en": "Cà phê gói"
+        },
+        "localize": {
+          "vi": "Cà phê gói",
+          "en": "Cà phê gói"
+        },
+        "image": "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/menufrontend/TX17lTus7rz4Q1iFMROSTMLEcZf4ZH3jPj1CBVIG.png",
+        "created_at": {
+          "$date": {
+            "$numberLong": "1584634254000"
+          }
+        },
+        "updated_at": {
+          "$date": {
+            "$numberLong": "1584720654000"
+          }
+        },
+        "type": "default_with_header"
+      }
+    ]
+  },
+  {
+    "name": "Đồ ăn",
+    "type": "list",
+    "data": [
+      {
+        "_id": "5af5602d8167f03b21ff7e24",
+        "id": 7,
+        "name": "Thức ăn nhẹ",
+        "description": "Snack",
+        "branch": "TCH",
+        "locale": {
+          "vi": "Thức ăn nhẹ",
+          "en": "Snack"
+        },
+        "updated_at": {
+          "$date": {
+            "$numberLong": "1546852114000"
+          }
+        },
+        "localize": {
+          "vi": "Thức ăn nhẹ",
+          "en": "Snack"
+        },
+        "image": "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/menufrontend/awgzPky5HnTyCc2dplRQVJu9G9JOKCDlyooqzFUi.png",
+        "created_at": {
+          "$date": {
+            "$numberLong": "1546852113000"
+          }
+        },
+        "type": "default_with_header"
+      },
+      {
+        "_id": "5af5602d8167f03b21ff7e26",
+        "id": 11,
+        "name": "Bánh ngọt",
+        "description": "Bánh Ngọt",
+        "branch": "TCH",
+        "image": "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/menufrontend/yovWHtDRGC1gyW07akls4axAtvgL2sJRFmfJCZRA.png",
+        "updated_at": {
+          "$date": {
+            "$numberLong": "1546852114000"
+          }
+        },
+        "locale": {
+          "vi": "Bánh ngọt",
+          "en": "Cake"
+        },
+        "localize": {
+          "vi": "Bánh ngọt",
+          "en": "Cake"
+        },
+        "created_at": {
+          "$date": {
+            "$numberLong": "1546852113000"
+          }
+        },
+        "type": "default_with_header"
+      },
+      {
+        "_id": "5af5602d8167f03b21ff7e27",
+        "id": 12,
+        "name": "Bánh mặn",
+        "description": "Savoury",
+        "branch": "TCH",
+        "image": "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/menufrontend/Acf7CizeUgebmzZ8ltTSNzS22fn872Mxv3hbFola.png",
+        "updated_at": {
+          "$date": {
+            "$numberLong": "1546852114000"
+          }
+        },
+        "locale": {
+          "vi": "Bánh mặn",
+          "en": "Savoury"
+        },
+        "localize": {
+          "vi": "Bánh mặn",
+          "en": "Savoury"
+        },
+        "created_at": {
+          "$date": {
+            "$numberLong": "1546852114000"
+          }
+        },
+        "type": "default_with_header"
+      }
+    ]
+  }
+]
